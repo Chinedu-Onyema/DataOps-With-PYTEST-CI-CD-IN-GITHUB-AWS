@@ -5,3 +5,5 @@ black
 ipython
 requests
 bs4
+pandas
+numpy

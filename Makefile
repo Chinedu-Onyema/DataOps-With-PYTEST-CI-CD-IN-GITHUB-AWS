@@ -6,8 +6,9 @@ install:
 		pip install -r requirements.txt
 
 test:
-	python -m pytest -vv --cov=auction 
+	python -m pytest -vv --cov=auction --cov=transform_auction
 	python -m pytest -vv test_auction.py
+	python -m pytest -vv test_transform_auction.py
 
 lint:
 	pylint --disable=R,C auction.py
