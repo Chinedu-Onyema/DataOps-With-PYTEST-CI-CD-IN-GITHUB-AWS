@@ -1,0 +1,1206 @@
+Bidding_Item,Reference_Number,Bid_Winning_Price,Bidding_Item_Title,Bid_Item_Identification_Number,Condition,Transmission_Type,Mileage,Fuel_Type
+Vehicle,NCS/PTML/OVT/01/24/1,892000.0,TOYOTA CAMRY HYBRID LE 4DR SEDAN 2006,4T1BE32K86U111063,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/2,500000.0,ACURA TL 2004,19UUA66214A013030,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/3,420000.0,HONDA ACCORD EX 1.5T 4DR SEDAN 2004,1HGCM66554A098192,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/4,800000.0,TOYOTA COROLLA L 4DR SEDAN 2007,2T1BR32E27C777272,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/5,715000.0,PEUGEOT 307 2008,VF33CNFUL84568049,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/6,410000.0,VOLKSWAGEN POLO 70 TSI TRENDLINE 2001,WVWZZZ6NZ1Y237873,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/7,467000.0,BMW 330I 4DR REAR-WHEEL DRIVE SEDAN 2011,WBAKF9C59BE262301,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/8,531001.0,MAZDA PREMACY 2003,JMZCP19F231338331,Used_Vehicle,Manual_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/11,2100000.0,HONDA ACCORD EX 4DR SEDAN 2014,1HGCR3F82EA037331,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/12,651000.0,HONDA ACCORD EX 1.5T 4DR SEDAN 2006,1HGCM56856A178616,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/13,400900.0,HONDA CIVIC EX 4DR SEDAN 2004,1HGEM219X4L011483,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/14,2750000.0,LEXUS GS 300 BASE 4DR REAR-WHEEL DRIVE SEDAN 2006,JTHCH96S360012332,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/15,610000.0,BMW 325XI 2006,WBAVD13556KV06571,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PH I/OVT/01/24/17,405500.0,VOLVO S80 2010,YV1960AS9A1116244,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/18,550000.0,MERCEDES-BENZ C240 2005,WDBRF81J95F631019,Used_Vehicle,Automatic_Vehicle,Kilometers,Diesel_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/21,500000.0,PEUGEOT 406 2001,VF38BRFNA18007629,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/19,600000.0,HONDA ACCORD EX 1.5T 4DR SEDAN 2007,1HGCM665X7A090545,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/20,455000.0,TOYOTA CAMRY L 4DR FRONT-WHEEL DRIVE SEDAN 2002,JTDBE32K420028817,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/22,1800000.0,TOYOTA YARIS SEDAN L 4DR SEDAN 2007,JTDJT923175085645,Used_Vehicle,Automatic_Vehicle,Kilometers,Diesel_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/24,540000.0,MERCEDES-BENZ C180 2006,WDB2030351F066544,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/25,425000.0,MERCEDES-BENZ C180 2002,WDB2032461F351760,Used_Vehicle,Automatic_Vehicle,Kilometers,Diesel_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/26,401000.0,NISSAN 37OZ BASE 2DR COUPE 2009,3N1AB61E59L668598,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/27,870000.0,TOYOTA CAMRY L 4DR FRONT-WHEEL DRIVE SEDAN 2004,4T1BE32K24U886231,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/28,750000.0,HONDA ACCORD EX-L 1.5T 4DR SEDAN 2010,1HGCP2F79AA137475,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/29,550000.0,DODGE CARAVAN 2010,2D4RN5DX9AR124758,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS///01/24/30,421678.0,DODGE CALIBER 2007,1B3HE78K77D338275,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/31,590000.0,OPEL ZAFIRA 2000,W0L0TGF75Y2210603,Used_Vehicle,Manual_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/32,410000.0,VOLVO V40 2005,KMHPM81CP5U215763,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/33,413000.0,MAZDA PREMACY 2006,JMZCP19F201151989,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/34,470000.0,NISSAN ALTIMA 2.0 SR 4DR FRONT-WHEEL DRIVE SEDAN 2009,1N4AL21E59N541732,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/35,500000.0,OPEL ZAFIRA 2000,W0L0TGF7542006165,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/36,413000.0,MITSUBISHI SPACE WAGON 2001,JMBLNN84W1Z001380,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/37,450000.0,MAZDA MAZDA 5 2005,JMZCR198260114972,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/38,450000.0,MERCEDES-BENZ C240 2005,WDBRF81J95F609358,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/39,600000.0,HONDA FR-VAN 2007,JHMBE57206S208841,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/40,500000.0,LEXUS ES 330 2005,JTHBA30G755129561,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/41,580000.0,OPEL ZAFIRA 2005,W0L0TGF752H012070,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/43,470005.0,LEXUS ES 330 2003,JTHBF30G430129433,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/45,491000.0,TOYOTA ECHO 2002,JTDBT123920230667,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/CSV/01/24/47,450000.0,VOLVO V40 2005,YV1MS382852098817,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/48,600000.0,TOYOTA CAMRY HYBRID SE 4DR SEDAN 2002,4T1BE32K92U112698,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/50,403000.0,FORD COUGAR 2000,WF0HT61L5Y5304779,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/51,600000.0,MERCEDES-BENZ C180 2006,WDB2020781F857225,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/52,528000.0,MERCEDES-BENZ C180 2006,WDB2020781F775020,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/53,503000.0,TOYOTA CAMRY L 4DR FRONT-WHEEL DRIVE SEDAN 2004,4T1BE30K64U302738,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/54,405000.0,MERCEDES-BENZ C180 2006,WDB2020871F988504,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/55,660000.0,MERCEDES-BENZ C200 2002,WDB2030451F082661,Used_Vehicle,Automatic_Vehicle,Kilometers,Diesel_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/56,420000.0,TOYOTA CAMRY LE 4DR FRONT-WHEEL DRIVE SEDAN 2003,JTDBE32K830222588,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/57,535000.0,MERCEDES-BENZ C200 2000,WDB2030451A017334,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/58,440000.0,NISSAN PRIMERA 1999,SJNBCAP11U0460396,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/59,606000.0,TOYOTA CAMRY L 4DR FRONT-WHEEL DRIVE SEDAN 2004,4T1BE32K94U839326,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/60,750000.0,TOYOTA COROLLA LE 4DR SEDAN 2005,2T1BR32E05C423408,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/62,497000.0,HONDA ACCORD LX 1.5T 4DR SEDAN 2011,1HGCP2F36BA108112,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/64,450000.0,MERCEDES-BENZ C200 2000,WDB2020801F949624,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/65,520000.0,MERCEDES-BENZ C180 2006,WDB2020181A368537,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/66,430000.0,MERCEDES-BENZ C180 2006,WDB2020261A607098,Used_Vehicle,Automatic_Vehicle,Kilometers,Diesel_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/67,410000.0,NISSAN PRIMERA 1998,SJNFCAP11U0065277,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/77,600000.0,MERCEDES-BENZ C240 2004,WDBRF61J14E016294,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/78,500000.0,TOYOTA CAMRY LE 4DR FRONT-WHEEL DRIVE SEDAN 2005,4T1BE32K75U018050,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/80,410000.0,TOYOTA COROLLA LE 4DR SEDAN 2001,2T1BR12E81C501755,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/81,820000.0,TOYOTA CAMRY LE 4DR FRONT-WHEEL DRIVE SEDAN 2009,4T4BE46KX9R115819,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/73,1350000.0,TOYOTA COROLLA LE 4DR SEDAN 2004,1NXBR38E74Z310866,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/74,411000.0,MERCEDES-BENZ C200 1997,WDB2020201A267123,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/75,431000.0,TOYOTA CAMRY LE 4DR FRONT-WHEEL DRIVE SEDAN 1997,4T1BG22KXVU798629,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/72,450000.0,LEXUS ES 300H LUXURY 4DR SEDAN 2002,JTHBF30G120074373,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/71,460000.0,HONDA CIVIC EX 4DR SEDAN 2008,2HGFG12968H534314,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/70,456000.0,NISSAN MAXIMA 3.5 S 4DR SEDAN 2006,1N4BA41E16C801573,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/82,410000.0,VOLKSWAGEN PASSAT 2.0T R-LINE 4DR SEDAN 1995,WVWZZZ3AZTE102724,Used_Vehicle,Manual_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/83,800000.0,TOYOTA CAMRY LE 4DR FRONT-WHEEL DRIVE SEDAN 2010,4T1BF3EK0AU045240,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/84,725000.0,OPEL ZAFIRA 2000,W0L0TGF75X2267290,Used_Vehicle,Manual_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/69,420000.0,SCION TC 2007,JTKDE177X70204013,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/76,530000.0,HONDA ACCORD LX 1.5T 4DR SEDAN 2010,1HGCP2F36AA161293,Used_Vehicle,Automatic_Vehicle,Kilometers,Diesel_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/85,650000.0,DODGE CALIBER 2008,1B3HB28BX8D732592,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/86,472000.0,MERCEDES-BENZ C180 2006,WDB2020781F812142,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/87,470000.0,MAZDA MAZDA 5 2006,JM1CR293260104252,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/88,450000.0,OPEL ZAFIRA 2001,WOLOTGF7522176659,Used_Vehicle,Manual_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/89,425000.0,TOYOTA CAMRY HYBRID LE 4DR SEDAN 1997,4T1BG22KXVU019424,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/90,1000000.0,HONDA ODYSSEY EX PASSENGER VAN 2009,5FNRL38719B042371,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/92,2600000.0,FORD TRANSIT 250 BASE 2008,WF0XXXTTFX8R29769,Used_Vehicle,Manual_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/93,1550000.0,TOYOTA RAV4 LIMITED 4DR FRONT-WHEEL DRIVE 2009,JTMBK32V895076952,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/96,561000.0,HYUNDAI ELANTRA SE 4DR SEDAN 2010,KMHDC8AE8AU057215,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/97,400100.0,MERCEDES-BENZ C230 2005,WDBRF40J65F677577,Used_Vehicle,Manual_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/98,851900.0,HONDA ACCORD EX-L 2.0T 4DR SEDAN 2016,1HGCR2F37GA117497,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/9,505000.0,TOYOTA SOLARA 2008,4T1CA30P38U154565,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/42,526000.0,MERCEDES-BENZ C320 2001,WDB2030641A342141,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML//01/24/44,422000.0,VOLVO S80 1999,YV1TS65F9Y1096638,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/46,451000.0,LEXUS LS 400 1990,JT8UF11E4L0015426,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/49,460000.0,MERCEDES-BENZ E320 1998,WDBJF65F0WA587093,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/79,402000.0,OPEL ASTRA 1994,W0L000052T2625846,Used_Vehicle,Manual_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/91,402000.0,MITSUBISHI CARISMA 2002,JMBSNEA2A1Z000979,Used_Vehicle,Manual_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/95,420000.0,VOLVO V70 1998,YV1LW7206W2465760,Used_Vehicle,Manual_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/100,1050000.0,HONDA ACCORD EX 1.5T 4DR SEDAN 2009,1HGCP26339A184929,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/101,2150000.0,TOYOTA COROLLA L 4DR SEDAN 2013,2T1BU4EE8DC123422,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/103,660000.0,TOYOTA CAMRY 2010,4T4BF3EK1AR045110,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/102,414000.0,HONDA ACCORD EX 1.5T 4DR SEDAN 2000,1HGCG5643YA032920,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/104,461000.0,TOYOTA CAMRY 2007,4T1BE46KX7U569608,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/106,865000.0,PEUGEOT  307 2004,VF33HNFUC83284259,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/109,650000.0,MERCEDES-BENZ  C180 1989,WDB2020781F784682,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/110,1200000.0,TOYOTA  COROLLA 2007,2T1BR32E47C822194,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/111,515000.0,NISSAN  JUKE 2016,JN8AF5MV2GT654095,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/112,581000.0,TOYOTA  SIENNA 1998,4T3ZF13C7WU021370,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/108,401000.0,JAGUAR  JAGUAR XJ6 1989,SAJHY154XKC577036,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/114,405000.0,TOYOTA  RAV 4 2003,JTEGH20V430091577,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/116,520000.0,KIA  SEDONA 2004,KNDUP131746545140,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/115,450000.0,FORD   TRANSIT 2004,WF0HXXGBVHRG13465,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/117,461000.0,TOYOTA  SIENNA 2002,4T3ZF13C62U451787,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/120,401000.0,ISUZU RODEO RODEO 2001,4S2DM58W314305955,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/121,901111.0,TOYOTA  SIENNA 2004,5TDZA23C14S212480,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/94,400003.0,VOLVO V70 2004,YV1SW61T342443587,Used_Vehicle,Manual_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/99,1350500.0,MERCEDES-BENZ C300 2008,WDDGF54X68R038976,Used_Vehicle,Manual_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/105,480000.0,TOYOTA YARIS 1999,JTDJV123703021901,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/107,470000.0,TOYOTA COROLLA 2003,1NXBR32E13Z135750,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/113,530000.0,FORD   WINDSTAR 2002,2FMZA52482BA69419,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/119,450000.0,LEXUS RX300 RX300 2000,JT6HF10U2Y0111792,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/122,1520000.0,HONDA   RIDGELINE 2009,5FPYK165X9B103003,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/123,1250000.0,TOYOTA  COROLLA 2006,1NXBR32E06Z617324,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/124,2000000.0,HONDA   ACCORD 2012,1HGCP2F82CA221956,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/127,450000.0,INFINITI   G37 2011,JN1CV6AR9BM411913,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/129,990000.0,LEXUS  ES 350 2009,JTHBJ46G192315214,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/130,930000.0,TOYOTA  CAMRY 2009,JTNBE46K793164301,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/131,450000.0,TOYOTA  CAMRY 2001,JT2BF28K110325517,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/132,600000.0,HONDA ACCORD 2008,JHMCP26868C071407,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/133,630000.0,TOYOTA  CAMRY 2010,4T4BF3EK6AR029694,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/134,1170000.0,TOYOTA  CAMRY 2005,JTDBE32K853027589,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/135,401000.0,TOYOTA CAMRY 1998,4T1BF28K4WU062362,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/136,640000.0,TOYOTA CAMRY 2002,4T1BF30K12U007699,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/138,460000.0,MERCEDES BENZ  C240 2004,WDBRH81J14F540139,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/139,560000.0,TOYOTA  COROLLA 2003,1NXBR32E73Z023762,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/140,420000.0,ACURA TL  TL 2003,19UUA56883A027200,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/141,1130000.0,HYUNDAI ELANTRA ELANTRA 2008,KMHDU46D78U490993,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/142,1000000.0,HONDA   ACCORD 2006,1HGCM561X6A003636,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/143,450111.0,KIA CEED CEED 2008,U5YFF24428L105978,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/144,450000.0,HONDA ACCORD 2005,JHMCN36445C002896,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/145,450000.0,TOYOTA  COROLLA 1999,2T1BR12E7XC179327,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/146,2850000.0,VOLKSWAGEN   PASSAT 2015,1VWCS7A38FC057804,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/147,2700000.0,TOYOTA  CAMRY 2017,4T1BF1FKXHU418748,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/148,410000.0,TOYOTA  CAMRY 1992,4T1SK12E1NU000764,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/149,1350000.0,TOYOTA  COROLLA 2007,1NXBR30E17Z879065,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/150,425500.0,NISSAN   PRIMERA 1999,SJNBCAP11U0447328,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/152,1990000.0,TOYOTA COROLLA 2004,2T1BR32E74C206839,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/153,650000.0,TOYOTA AVALON 2003,4T1BF28B23U294521,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/154,1320000.0,TOYOTA CAMRY 2013,4T1BF1FK5DU720412,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/155,3650000.0,TOYOTA COROLLA 2011,2T1BU4EE8BC671756,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/157,505000.0,FORD  E350 ECONOLINE VAN 2006,1FBNE31L56DA20252,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/158,422000.0,FIAT DUCATO 2005,ZFA24400007670849,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/159,442000.0,MERCEDES BENZ   SPRINTER 2005,WDB9036621R835252,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/160,449900.0,MERCEDES-BENZ   SPRINTER 2005,WDB9036621R913683,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/161,870000.0,FORD  E250 ECONOLINE VAN 2009,1FTNE24W89DA34713,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/162,460000.0,VOLKSWAGEN   LT 31 1998,WV2ZZZ28ZJH020778,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/163,656000.0,LDV CONVOY   LWB 2004,SEYZMVSYGDN083572,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/164,450000.0,FORD  ECONOLINE 2000,1FTRE14W9YHA15249,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/165,840000.0,TOYOTA  SIENNA 2008,5TDZK23C98S187878,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/166,455000.0,DODGE   CARAVAN 2006,1D4GP45R26B717346,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/167,470000.0,ACURA   RDX 2009,5J8TB18269A005652,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/168,420103.0,LANDROVER  RANGE ROVER SPORT 2009,SALSK254X9A207294,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/169,407000.0,NISSAN  PATHFINDER 2002,JN8DR09Y32W720106,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/170,1000000.0,FORD  EDGE 2007,2FMDK38C07BB55664,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/171,500000.0,FORD  RANGER 2004,1FTZR15E84PA94147,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/172,415000.0,HYUNDAI   SANTA FE 2005,KM8SC73D05U004892,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/173,500100.0,INFINITI  FX35 2004,JNRAS08W54X222750,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/174,637800.0,HONDA   PILOT 2005,5FNYF18485B006197,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/175,401001.0,CHRYSLER 300 2005,2C3JA53G95H503654,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/176,440000.0,PEUGEOT 806 2006,VF3221RA212431832,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/177,685000.0,TOYOTA  SIENNA 2002,4T3ZF13C72U487326,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/178,900000.0,TOYOTA SIENNA 2008,5TDZK23C88S219896,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/179,401000.0,SEAT INCA 2001,VSSZZZ9KZ1R021067,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/180,620000.0,TOYOTA HIGHLANDER 2005,JTEHD21A750036975,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/181,750000.0,HONDA FIT 2008,JHMGD386383047178,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/182,412000.0,TOYOTA CAMRY 2005,4T1BE32K65U979612,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/183,690000.0,MERCEDES BENZ C240 2002,WDBRF61JX2F295199,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/184,534000.0,LEXUS ES 300 2003,JTHBF30G030122219,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/185,401000.0,DAEWOO EVANDA 2003,KLALA69Z13B085287,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/187,420001.0,VOLKSWAGEN PASSAT 2000,WVWWH23B8YE384412,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/188,460000.0,KIA CERATO 2005,KNEFE222265211935,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/189,465000.0,JAGUAR XJ SALOON 2006,SAJWA79B36SG50026,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/190,440000.0,NISSAN ALTIMA 2002,1N4AL11D52C194292,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/191,421000.0,VOLVO  S80 2007,YV1AS982771034038,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/192,700000.0,TOYOTA CAMRY 2003,4T1BE30K33U684001,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/194,401000.0,DAEWOO LANOS 2000,KLATF48CEXB388483,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/195,550000.0,FORD  F250 CREW CAB 4X2 S 2000,1FTNX21S4YED57919,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/197,455500.0,HONDA PILOT 2006,2HKYF18796H004469,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/198,410000.0,NISSAN QUEST 2004,5N1BV28U24N346875,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/200,420000.0,NISSAN ARMADA 2008,5N1AA08D18N627101,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/199,522000.0,NISSAN TERRA 2007,5N1AN08W77C511126,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/196,473765.0,MERCEDES-BENZ  ML320 2001,4JGAB54E01A233871,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/193,412000.0,AUDI A4 2005,WAULT68E15A098445,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/202,450000.0,SUZUKI XL7 2008,2S3DA417586116705,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/201,950000.0,LANDROVER  RANGE ROVER 2011,SALME1D41BA354993,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/186,640000.0,AUDI A4 2009,WAULF78K79N014470,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/298,800000.0,MERCEDES BENZ SPRINTER 2005,WDB9036621R830273,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/297,1300000.0,KIA  SEDONA 2012,KNDMG4C77C6493061,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/296,1180000.0,ACURA MDX 2006,2HNYD18976H542954,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/295,1400000.0,HONDA ODYSSEY 2005,5FNRL38605B409892,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/293,4790000.0,LEXUS RX330 2005,JTJGA31U250055259,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/292,1070000.0,PEUGEOT 807 2004,VF3EB4HWB13042972,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/291,1001000.0,TOYOTA SIENNA 2001,4T3ZF19C51U407740,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/288,490000.0,BMW 520 2002,WBADM410806M11520,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/285,1810000.0,TOYOTA HIGHLANDER 2001,JTEHF21A510011917,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/283,1030000.0,HONDA ODYSSEY 2007,5FNRL38447B082379,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/282,620000.0,DODGE GRAND CARAVAN 2007,2D4GP44LX7R115102,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/281,490000.0,LDV  400 MINIBUS 2003,SEYZMVSYGDN092097,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/280,445000.0,DODGE GRAND CARAVAN 2010,2D4RN4DEXAR354513,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/279,850000.0,SATURN VUE 2004,5GZCZ23DX4S848926,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/277,851000.0,MAZDA B3000 1999,4F4ZR16V7XTM32736,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/276,1020000.0,TOYOTA 4 RUNNER 2000,JT3GM84R7Y0065535,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/275,750000.0,DODGE CARAVAN 2000,2B4FP25B9YR604432,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/235,3100000.0,HUMMER H2 2003,5GRGN23U53H106992,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/273,1100000.0,BMW  X5 2003,5UXFA53503LW23616,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/272,6120000.0,TOYOTA TUNDRA 2007,5TBBV58137S453212,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/271,1600000.0,LEXUS RX300 2000,JT6HF10U9Y0155269,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/267,560000.0,FORD MERCURY VILLAGE 2001,4M2ZV14T01DJ11672,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/266,631001.0,FIAT DOBLO 1997,ZFA22300005034910,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/264,970000.0,DODGE RAM 1200 1996,2B7JB31Z1TK173073,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/262,2900000.0,MERCEDES BENZ GLE450 2010,4JGBF7BE7AA537755,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/258,551000.0,ACURA MDX 2007,2HNYD28387H532985,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/253,2700000.0,SUZUKI XL7 2008,2S3DA417186114689,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/255,933333.0,CHEVROLET ASTRO VAN 1997,1GBDM19W2VB160383,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/257,3200000.0,TOYOTA 4 RUNNER 2005,JTEZU14R058041002,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/256,900000.0,TOYOTA  4 RUNNER 1999,JT3HN86R9X0242163,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/118,1700000.0,JEEP GRAND  CHEROKEE 2007,1J8GR48K07C585519,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/251,1550000.0,TOYOTA SIENNA 2000,4T3ZF13C8YU306341,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/248,420000.0,LINCOLN TOWN CAR 2005,1LNHM81W55Y630030,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/243,1800000.0,TOYOTA SIENNA 2004,5TDZA23C74S189643,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/247,1050000.0,TOYOTA SIENNA 1999,4T3ZF13C5XU162827,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/249,860000.0,TOYOTA HIGHLANDER 2005,JTEEP21A550092973,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/250,830000.0,LEXUS RX300 2003,JTJHF10U830309565,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/238,825000.0,TOYOTA SIENNA 2005,5TDBA22C25S032803,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/234,500000.0,MERCEDES BENZ VITO 1999,VSA63829413210835,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/237,1300000.0,TOYOTA SIENNA 2000,4T3GF19C5YU257937,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/125,450000.0,TOYOTA  CAMRY 1990,4T1SV21E0LU191105,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/156,420000.0,OPEL   CORSA 1995,W0L0SBF08Y4088555,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/203,480000.0,VOLVO V70 1998,YV1LW5522W2402857,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/204,1000000.0,DODGE  CALIBER 2007,1B3HB48B17D179342,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/210,880000.0,FORD ECONOVAN 1999,1FBSS31L2XHB39740,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/213,510000.0,NISSAN PATHFINDER 1988,JN8HD16Y4JW000418,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/215,3200000.0,TOYOTA SIENNA 2009,5TDZK23C39S236834,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/222,1600000.0,MERCEDES BENZ C230 2002,WDBRN47J42A358406,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/225,680000.0,CHEVROLET EXPRESS PASSENGER VAN G35 2005,1GCGG25U751183917,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/226,2700000.0,TOYOTA SIENNA 2005,5TDZA23C25S346058,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/227,750000.0,FORD CLUBWAGEN 1995,1FMEE11H2SHA63120,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/228,740000.0,TOYOTA SIENNA 2001,4T3ZF19C91U345839,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/230,1201000.0,VOLKSWAGEN TOURAN 2004,WVGZZZ1TZ4W153300,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/214,1150000.0,VOLKSWAGEN TRANSPORTER 1992,WV2ZZZ25ZHH116837,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/209,510000.0,DODGE  DAKOTA 2002,1B7GG16X22S701103,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/246,900000.0,DODGE RAM 1500 PICK UP 2003,1D7HU18D03S262717,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/259,759000.0,LEXUS RX300 2001,JTJHF10U510186644,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/260,1100000.0,FORD EXPLORER 2004,1FMZU73E14UC11908,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/252,1500000.0,PONTIAC AZTEK 2004,3G7DA03E74S520022,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/241,1500000.0,TOYOTA SIENNA 2000,4T3ZF13CXYU200005,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/268,1500000.0,TOYOTA PREVIA 1991,JT3AC11R8M0012633,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/289,730000.0,MERCEDES BENZ A160 1998,WDB1680331J058679,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/10,9000000.0,TOYOTA CAMRY LE  2015,4T1BF1FK4FU946508,Used_Vehicle,Manual_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/23,853000.0,TOYOTA COROLLA EX 2006,2T1BR32E76C591340,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Container,NCS/TCIP/OVT/03/2024/1,25000000.0,DFSU6276690,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/2,19000500.0,CSNU6062890,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/3,9000000.0,CBHU8708359,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/4,8700000.0,CSNU6999438,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/5,29000000.0,CBHU7069227,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/6,9600000.0,TCNU1677537,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/7,5500000.0,BMOU4410540,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/8,2199090.0,CCLU7651541,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/9,13000000.0,MEDU8568601,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/11,28900000.0,AMFU8911347,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Vehicle,NCS/PTML/OVT/01/2024/300,500100.0,DODGE  DURANGO 2004,1D4HD48N74F167007,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/301,456000.0,CITROEN  BERLINGO 2006,VF7MBRHYB65620204,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/303,403500.0,CITROEN  BERLINGO 2001,VF7MFRHYB65602668,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/302,2700000.0,FORD  ECONOLINE 2006,1FTNE24W36HB17762,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/304,1500000.0,FORD  F150 PICK UP 2004,1FTRX12W34NC39173,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/305,900000.0,HONDA  CR-V 2002,JHLRD78832C819636,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/306,2600000.0,TOYOTA  SIENNA 2000,4T3ZF13CXYU208590,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/373,11500000.0,TOYOTA  SIENNA 2016,5TDKK3DC6GS693012,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/377,589000.0,SEAT  INCA 2001,R009161,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/376,455000.0,CHRYSLER  VOYAGER 2003,1C4GJ25373B287369,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/375,550089.0,HONDA  ACCORD 2003,1HGCM56623A112695,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/366,560000.0,CHRYSLER  PACIFICA 2007,2A8GF68X37R224244,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/365,660000.0,MERCEDES  BENZ VITO 2001,VSA63819413385046,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/363,432000.0,SCION  XB 2013,JTLZE4FE6DJ038971,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/362,580000.0,MAZDA  MPV 2006,JMZLW19F2Y0102415,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/361,495555.0,FORD  EXPLORER 2006,1FMEU73EX6UA43168,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/360,700001.0,LANDROVER  RANGE ROVER 2004,SALME11444A161924,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/356,450000.0,MERCEDES  BENZ A140 2000,WDB1680311J462018,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/355,701000.0,RENAULT  MEGANE SCENIC 2007,VF1JA040520582858,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/354,670000.0,HONDA  CIVIC 2004,2HGES16594H530155,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/353,630000.0,VOLKSWAGEN  PASSAT 2001,WVWZZZ3AZTE157980,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/350,490000.0,VOLKSWAGEN  GOLF 2000,WVWZZZ1JZ1B079525,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/349,460000.0,TOYOTA  SOLARA 2001,2T1CF22P01C431365,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/348,800000.0,VOLKSWAGEN  GOLF 1998,WVWZZZ1JZXW224212,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/346,2109900.0,HYUNDAI  ELANTRA 2008,KMHDU46DX8U332227,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/345,1400000.0,MERCEDES C 280 1999,WDBHA29G1XA727887,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/344,450000.0,HONDA  ACCORD 2002,1HGCG56782A146591,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/342,600000.0,OPEL  ZAFIRA 2002,W0L0TGF7522213726,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/341,2000000.0,TOYOTA  TUNDRA 2004,5TBET34124S446597,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/340,592295.0,SUZUKI  XL7 2002,JS3TY92V024102768,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/339,2900000.0,TOYOTA  SIENNA 2007,5TDZK23C27S022334,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/338,4000022.0,TOYOTA  TACOMA 2010,3TMJU4GN4AM104586,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/337,630000.0,JEEP  LIBERTY 2009,1J8GN28K79W530468,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/336,750000.0,FORD  EXPLORER 2005,1FMZU73K25UC05462,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/335,1300000.0,FORD  ESCAPE 2012,1FMCU9DG1CKA76151,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/334,2100000.0,TOYOTA  HIGHLANDER 2003,JTEHF21A230116109,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/333,700000.0,MAZDA  MPV 2006,JM3LW28AX60562220,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/332,1050000.0,HONDA  PILOT 2005,2HKYF18195H566396,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/331,1050000.0,LEXUS  RX300 2001,JTJHF10U910198909,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/330,580000.0,MERCEDES  BENZ S500C 2001,WDBNG75JX1A137842,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/329,2000000.0,TOYOTA  SIENNA 2005,5TDZA23C25S344097,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/309,1680000.0,HONDA  ACCORD 2010,1HGCP2F35AA045230,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/328,1350000.0,DODGE  RAM PICKUP 2012,1C6RD7FT6CS189940,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/326,442200.0,ALFA  ROMEO 156 1999,ZAR93200001116131,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/325,500000.0,FORD  FOCUS 2002,WF0NXXGCDN2A23102,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/323,480000.0,TOYOTA  AVALON 2001,4T1BF28B01U172611,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/322,950000.0,LEXUS  ES 300 2001,JT8BF28G010306779,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/321,1500000.0,MAZDA  3 2005,JM1BK343851224904,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/320,751000.0,NISSAN  MICRA 1999,SJNEBAK12U1075794,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/319,800000.0,INFINITI  G35 2003,JNKCV51E63M313121,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/318,651000.0,FORD  RANGER 2002,1FTZR45E02PB01025,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/317,550000.0,NISSAN  SENTRA 2012,3N1AB6AP6CL769092,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/315,500000.0,LANDROVER  RANGE ROVER 2007,SALMF154X7A242373,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/314,701111.0,TOYOTA  CAMRY 2003,4T1BE32K23U665369,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/312,1300000.0,TOYOTA  COROLLA 2004,2T1BR38E34C240770,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/311,850000.0,CHEVROLET  MALIBU 2011,1G1ZD5E7XBF389558,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/310,650000.0,NISSAN  ALMERA TINO 2005,VSKTDAV10U0201011,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/307,600000.0,NISSAN  PRIMERA 2000,SJNFAAP11U0493474,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Container,NCS/TCIP/OVT/03/2024/13,10200000.0,GCNU4686930,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/14,2000000.0,GCNU1347168,Cont23456,Used_items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/15,5000000.0,ACLU9742735,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/16,13000000.0,ACLU9694160,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/17,2900100.0,GCNU4726611,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/18,22000000.0,GCNU4772601,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/19,2020000.0,GCNU4739429,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/21,10000000.0,ACLU9724813,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/22,8500000.0,ACLU9698972,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Vehicle,NCS/PTML/OVT/02/2024/410,1000000.0,TOYOTA SIENNA 1998,4T3ZF13C8WU043684,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/409,1600000.0,TOYOTA SIENNA 2002,4T3ZF19CX2U450570,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/408,800000.0,ACURA  MDX 2002,2HNYD18202H532800,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/407,740000.0,KIA  CARNIVAL 2000,KNEUP751356688690,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/406,1250000.0,HONDA ODYSSEY 2005,5FNRL38655B403957,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/405,1600000.0,TOYOTA SIENNA 1998,4T3ZF13CXWU083815,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/402,4500000.0,GMC TERRAIN SLT 2010,2CTALDEW2A6213819,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/400,900000.0,MERCEDES BENZ  VIANO 2004,WDB4147001N210981,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/399,1500000.0,LEXUS RX300 2000,JT6HF10U9Y0146507,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/398,1400000.0,LEXUS RX300 2001,JTJHF10UX10208170,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/397,2300000.0,BMW X3 2004,WBXPA73414WB22541,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/395,1400000.0,TOYOTA CAMRY 2002,4T1BE30K62U554521,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/379,1000000.0,BMW 316 2002,WBAAT51010FW38128,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/382,650000.0,PEUGEOT 306 1998,VF37ELFYE33006853,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/383,1400000.0,LEXUS ES 300 2003,JTHBF30G830118998,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/384,700123.0,VOLKSWAGEN GOLF 2000,WVWZZZ1JZYW605954,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/385,450000.0,NISSAN PRIMERA 2000,SJNFCAP12U0063090,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/386,1300000.0,VOLKSWAGEN GOLF 1998,WVWZZZ1HZXK003466,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/388,1000000.0,TOYOTA CAMRY 2006,4T1BE30K86U650270,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/389,450100.0,CITROEN SAXO 2000,VF7S1HDZF57127839,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/391,1300000.0,MERCEDES BENZ  C220 2006,WDB2032641F192958,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/394,900000.0,TOYOTA CAMRY 1999,4T1BG22K2XU614027,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Container,NCS/TCIP/OVT/03/2024/23,5111111.0,MSCU7642396,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/24,2000000.0,TEMU7050462,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/25,3500000.0,MAGU5520123,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/26,6900000.0,CCLU7863221,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Vehicle,NCS/PTML/OVT/02/2024/367,900000.0,NISSAN  PATHFINDER 2005,5N1AR18W35C783602,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/380,1802000.0,PEUGEOT 206 2003,VF32KNFUF43040590,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/403,1100000.0,MERCEDES BENZ  ML320 2001,4JGAB54E91A237174,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/381,900000.0,MERCEDES BENZ  C220 2001,WDB2030061F139000,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/404,820000.0,TOYOTA SIENNA 2003,4T3ZF19C33U517222,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/401,800000.0,VOLVO XC90 2004,YV1CM91H741045876,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/396,900000.0,HONDA CIVIC 2001,1HGEM22531L102232,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/392,1636900.0,MERCEDES BENZ  C180 2006,WDB2020181A595866,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/372,1111115.0,TOYOTA  SIENNA 2004,5TDBA22C64S024718,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/364,1060000.0,FORD  EXPEDITION 2008,1FMEU17L63LA01071,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/363,435000.0,SCION  XB 2013,JTLZE4FE6DJ038971,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/368,850000.0,HONDA  ODYSSEY 2004,5FNRL18564B103547,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/352,650000.0,HONDA  ACCORD 2006,JHMCL76403C206504,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/351,488888.0,BMW  523 2001,WBADH31060BY05593,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/347,1352500.0,PONTIAC  VIBE 2004,5Y2SL62864Z431224,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/343,800000.0,NISSAN  SENTRA 2008,3N1AB61E08L633823,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/313,1100000.0,TOYOTA  CAMRY 2004,4T1BE32K04U367579,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/299,900000.0,FORD  TAURUS 2007,1FAFP56U57A148992,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/269,751000.0,MERCEDES BENZ ML 1991,4JG1631541A018964,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/208,650000.0,HONDA CIVIC 2004,2HGES16664H630934,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/211,602350.0,NISSAN  MURANO 2005,JN8AZ08T35W318485,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/216,1550000.0,PONTIAC VIBE 2005,5Y2SL63895Z409766,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/219,651900.0,TOYOTA COROLLA 2002,NMTEZ28E80R020936,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/220,1400001.0,HONDA CIVIC 2004,1HGES15544L009770,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/221,1350000.0,HONDA ACCORD 2007,1HGCM56427A174182,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/223,1400000.0,TOYOTA CAMRY 2003,4T1BE32KX3U145100,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/231,1309000.0,MAZDA MPV 2005,JM3LW28A750534521,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/24/16,750000.0,AUDI A6 2.0T PREMIUM 2003,WAUZZZ4BZWN042668,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/128,624000.0,MITSUBISHI   GALANT 1996,JMBLNE52ATZ000591,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/205,520180.0,HONDA  CIVIC 2006,JHMFA36216S028242,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/232,1004010.0,TOYOTA SIENNA 2005,5TDZA23C35S239715,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/233,540000.0,VOLKSWAGEN SHARAN 2000,WVWZZZ7MZ1V002280,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/236,1103600.0,HONDA PILOT 2003,2HKYF18493H601767,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/240,750000.0,CHEVROLET SILVERADO 2004,1GCEK14X44Z233541,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/244,6604000.0,MERCEDES BENZ GL450 2007,4JGBF71E67A166520,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/245,1300000.0,VOLVO XC90 2004,YV1CZ91H441063155,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/254,1131350.0,HONDA CR-V 1999,JHLRD1848XC033297,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/258,604500.0,ACURA MDX 2007,2HNYD28387H532985,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/263,1102600.0,VOLKSWAGEN EURO VAN 2002,WV2KB47032H016232,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/270,1413311.0,TOYOTA SIENNA 2000,4T3ZF13C3YU257677,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/274,1000000.0,FORD EXPLORER 2003,1FMZU77E53UA00915,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/278,961900.0,HONDA ODYSSEY 2010,5FNRL3H4XAB001036,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/284,803600.0,TOYOTA SIENNA 2004,5TDZA22C64S134540,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/286,1111111.0,OPEL ZAFIRA 2002,W0L0TGF7522143670,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/287,900000.0,VOLKSWAGEN GOLF 1995,WVWZZZ1HZTP419200,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/290,1300000.0,ACURA  RL 2011,JH4KB2F66BC000661,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/294,1300003.0,NISSAN ARMADA 2005,5N1AA08B35N724245,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/OVT/PTML/01/2024/137,717222.0,HYUNDAI  TIBURON 2005,KMHHN65FX5U177798,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/316,760000.0,NISSAN  PICK UP 1991,1N6SD11SXMC327333,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/324,3000000.0,TOYOTA  COROLLA 2005,2T1BR32E35C441658,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/370,1455555.0,VOLKSWAGEN  JETTA 2011,3VWLX7ABM324618,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/218,750000.0,MERCEDES BENZ E320 2005,WDBUF65J55A704358,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/229,2150000.0,LANDROVER RANGE ROVER SPORT 2008,SALSF25428A122534,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/369,3500000.0,TOYOTA  COROLLA 2010,1NXBU4EE6AZ323418,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/374,1301800.0,TOYOTA  HIGHLANDER 2013,5TDYK3EH7DS122077,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/411,600700.0,CHEVROLET  TRANSPORT 2001,IGNDX03E11D1717,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/412,2000000.0,HONDA  CIVIC 2004,JMES96634S004245,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/413,520000.0,MERCEDES-BENZ BENZ 2002,WDBRF61JX2E004433,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/414,1259000.0,HONDA  CRV 2002,JHLRD78852C015290,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/415,2400000.0,MITSUBISHI  GALANT 2011,4A32B2FFXBE018339,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/416,1250000.0,LEXUS  RX 300 1999,JT6HF10U8X0021044,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/417,3600000.0,TOYOTA RAV 4 2007,JTMBD31V476027251,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/418,4240000.0,HONDA  ACCORD 2014,1HGCR2E56EA027502,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/419,910000.0,VOLKSWAGEN PASSAT 2003,WVWPD63BX3P044313,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/420,1150000.0,LEXUS  ES350 2004,JTHBA30G345051553,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/421,850000.0,TOYOTA  CAMRY 2002,4T1BE32K22U051601,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/422,1000000.0,TOYOTA RAV 4 2005,JTEGD20V750053985,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/423,2824000.0,TOYOTA 4RUNNER 2006,JTEZU14R260064975,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/424,870000.0,TOYOTA CAMRY 2001,4T1BG22K51U069545,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/425,709999.0,HONDA  4DSD 2002,1HGCG66852A126216,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/426,1450000.0,TOYOTA SIENNA 1997,JT3HK23M7V1076120,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/427,550000.0,MITSUBISHI  GALLANT 2003,3AA46G13E092401,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/428,800000.0,TOYOTA CAMRY 2002,4T1BE32K32UO97664,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/429,300000.0,LEXUS  ES350 2003,JTHBF30GX30098236,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/430,1686000.0,TOYOTA CAMRY 2005,4T1BF30K25U107508,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/432,3800000.0,TOYOTA COROLLA  2009,2T1BU40E69C125569,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/433,440000.0,CHRYSLER  VOYAGER 1999,1C4GYB4R4XU126070,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/434,630000.0,MERCEDES-BENZ CLK 2002,WDBLK65G32T128779,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/435,410999.0,HONDA  ACCORD 2005,1HGCM56A75A136590,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/436,620000.0,TOYOTA SIENNA 1999,4T3ZF13C5XU136650,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/437,1000000.0,VOLVO XC90 2008,YV1CZ592851140748,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/438,820000.0,MERCEDES-BENZ BENZ 2002,WDBRF64J12F150614,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/439,315000.0,MERCEDES-BENZ E200 2002,WDB2100372A154002,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/440,465660.0,MERCEDES-BENZ BENZ 2001,WDBNG70JX1A154485,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/441,1200000.0,HONDA  ACCORD 2007,1HGCM56797A169152,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/442,1400000.0,NISSAN ALTIMA 2009,1N4AL21E79C169368,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/443,2500000.0,CADILLAC CADILLAC 2015,2G61U5S36F9196590,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/444,720000.0,TOYOTA AVALON 2002,4T1BF28B32U202850,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/445,320000.0,CHEROKEE JEEP 1994,IJ4FJ28XSRL208496,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/446,301000.0,NISSAN NISSAN 1990,SJNBCAP10U0210495,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/447,550000.0,VOLKSWAGEN GOLF 2000,WVWGC21J0YW235029,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/448,2900000.0,TOYOTA  SIENNA 2005,5TDZA23C15S247702,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/451,365000.0,TOYOTA AVALON 2003,4T1BF28B43U303753,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/452,1650000.0,TOYOTA AVALON 2008,4T1BK36B18U287720,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/454,3864000.0,FORD FUSION 2013,3FA6P0G73DR298838,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/458,380800.0,MAZDA MPV 2003,JM3LW28J830335801,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/462,950050.0,NISSAN FRONTIER 2000,IN6ED27Y0YC379011,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/463,452000.0,TOYOTA CAMRY 2011,4TIBK3DBOBU395613,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/464,380000.0,MERCEDES-BENZ BENZ 2001,WDB2102351A412752,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/465,2100000.0,HONDA ODYSSEY 2006,5FNRL38466B422713,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/466,2871521.0,HONDA ODYSSEY 2007,5NFRL38637B427001,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/467,1000050.0,TOYOTA CAMRY 2000,JT2BG22K9YO437532,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/468,1100000.0,PONTIAC VIBE 2005,5Y2SL638X5Z447135,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/469,3000001.0,NISSAN FRONTIER 2004,1N6ED29X44C453190,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/490,3000000.0,LEXUS IS250 2008,JTHCK262082023465,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/489,900000.0,SATURN VUE 2006,5GZCZ63476S873714,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/488,1800000.0,MERCEDES-BENZ BENZ 2007,WDB2020897F859931,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/449,450000.0,HONDA  ACCORD 1998,1HGCG5646WA242067,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/450,650000.0,HONDA  CRV 2000,4T3ZF19C5YU209668,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/453,1800000.0,TOYOTA SIENNA 2000,4T3ZF1C8YU298693,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/455,1111111.0,TOYOTA CAMRY 1999,JT2BG22K0X0315723,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/456,520000.0,MERCEDES-BENZ E320 2003,WDBUF65J33A326201,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/457,1400000.0,HYUNDAI ELANTRA 2008,KMHDU46D58U330336,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/459,5499999.0,TOYOTA CAMRY 2009,4T1BE46K99U347080,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/460,450000.0,CHRYLER NA 2005,2C4GF68445R366693,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/470,750000.0,TOYOTA SIENNA 2002,4T3ZF19C62U484893,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/471,1200000.0,ACURA MDX 2003,2HNYD18733H501800,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/472,1000000.0,MERCEDES-BENZ BENZ 2001,WDB1680331J526707,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/473,2650000.0,TOYOTA CAMRY 2002,4T1BE32K12U546825,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/474,1000000.0,HONDA CIVIC 2003,2HGES26713H589318,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/478,1350000.0,MERCEDES-BENZ C230 2005,WDBRF40J45F672507,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/477,870000.0,TOYOTA CAMRY 2002,4T1BE32KX6U667519,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/485,2400000.0,HYUNDAI ELANTRA 2009,KMHDU46D49U825130,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/479,701111.0,HYUNDAI SANTAFE 2004,KM8SC13D44U724563,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/480,2100000.0,TOYOTA COROLLA 2007,2T1BR32E17C762567,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/481,3200000.0,BENZ C280 2006,WDBRF92H36F766449,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/482,555554.0,TOYOTA CAMRY 2000,TIBG22K7Y1768756,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/483,1800000.0,TOYOTA COROLLA 2007,2T1BR32E27C792418,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/484,570000.0,TOYOTA CAMRY 2001,4T1BG22K41U796644,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/486,910000.0,TOYOTA SOLARA 2004,4T1CE30P74U836251,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/475,1250000.0,TOYOTA MATRIX 2006,2T1KR30E16C613223,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/487,500000.0,TOYOTA CAMRY 2001,4T1BG22K31U843209,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/207,3900000.0,NISSAN  ALTIMA 2015,1N4AL3AP1FC139530,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/212,900500.0,FORD TAURUS 2004,1FAFP55U04G119684,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/217,1715000.0,TOYOTA CAMRY 2013,4T4BF1FKXDR289071,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/01/2024/224,1600000.0,FIAT DUCATO 1995,ZFA24400007379024,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/358,1000090.0,VOLVO  V40 2000,YV1VW26751F639922,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/359,450000.0,NISSAN  ALMERA 2004,JN1CAAN16U0007462,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/378,1700000.0,TOYOTA COROLLA 2005,2T1BR32EX5C336874,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/387,1600000.0,PEUGEOT 406 1999,VF38BRFVE80645422,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/02/2024/393,2004895.0,VOLKSWAGEN GOLF 2007,WVWZZZ1JZXB035377,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/491,1203838.0,TOYOTA CAMRY 1999,JT2BF28K2X0167469,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/492,1700000.0,MINI  COOPER 2009,WMWMF33569TW70248,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/493,927837.0,HONDA CR-V 1998,JHLRD1840WC046981,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/494,2250000.0,TOYOTA COROLLA 2004,1NXBR32E94Z251733,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/495,1700000.0,LEXUS  S GS 300 2003,JT8BD69S030173721,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/496,1000000.0,VOLVO  XC70 2007,YV4SZ592471257356,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/497,3000000.0,TOYOTA COROLLA 2009,1NXBU40E29Z030487,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/498,500000.0,CHEVROLET  EQUINOX LT 2001,2CND163F956012525,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/499,2200000.0,HYUNDAI  SONATA 2007,5NPEU46F87H225339,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/500,876000.0,DAEWOO DAEWOO 2002,KLAUF75612K823757,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/501,950000.0,VOLCKSWAGEN PASSAT 2003,WVWMD63B13E411369,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/502,800000.0,VOLKSWAGEN JETTA 2004,3VWRK69MX4M138445,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/503,1000000.0,HONDA ODDESY 2000,2HKRL1866YH540738,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/504,411100.0,MERCEDES  BENZ 2002,WDBLK65G42T101316,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/505,2000005.0,MAZDA  CX7 2007,JM3ER293270133459,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/506,800000.0,AUDI   ALLROAD 2002,WA1YD64B82N120800,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/507,1400000.0,HONDA ACCORD 2007,1HGCM56897A018739,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/508,4600000.0,TOYOTA COROLLA 2010,1NXBU4EE6AZ383909,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/509,2500000.0,TOYOTA CAMRY 2005,JTDBE32K753033626,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/510,1000000.0,HONDA ACCORD 2005,1HGCM56475L004238,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/511,1400000.0,MERCEDES  BENZ 2005,4JGAB57E05A530267,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/512,900099.0,TOYOTA SOLORA 2004,4T1CA38P54U008098,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/513,2000000.0,HONDA CIVIC 2008,2HGFA16968H504175,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/514,610000.0,SCION XA 2006,JTKKT624460151542,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/515,7500000.0,MERCEDES  BENZ C300 2011,WDDGF5EB0BR148500,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/516,1300000.0,TOYOTA CAMRY 2001,401BF22AS1U119900,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/517,1650000.0,VOLCKSWAGEN GOLF 1998,WVWZZZ1JZWB042824,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/518,1350000.0,OPEL   ASTRA 1998,W0L0TGF3512086052,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/519,3511111.0,LEXUS 350 2004,JTHA30GX45020347,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/520,3200000.0,NISSAN  ALTIMA 2013,IN4BL113DDC178498,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/521,1900000.0,HONDA PILOT 2006,2HKYF18546H555780,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/522,650000.0,FORD  MONDEO 2010,UF0AXX6BBAWA24713,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/523,2700000.0,TOYOTA T100 T100 1996,JT4TN12D6T0022593,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/524,3200000.0,TOYOTA COROLLA 2005,1NXBR32E65Z434119,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Container,NCS/TCIP/OVT/03/2024/60,2600999.0,MOLU7034820,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/62,8000000.0,CLHU8060923,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/63,1600000.0,MOLU3014174,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/64,2100000.0,ONEU0288573,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/66,2789898.0,CAXU6428957,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/67,1700000.0,ARKU2310217,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/68,3000000.0,FCIU3703352,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/69,2800000.0,GLDU5168929,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/70,2400000.0,DVRU1465319,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/71,2000000.0,CLHU2820103,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/72,7300000.0,MOAU0530694,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/73,2800000.0,MOAU0221289,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/74,8000000.0,MSCU2459021,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/75,1901111.0,MSCU1835778,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/77,2999000.0,MEDU2609299,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/78,1600000.0,MSCU8038647,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/79,3000000.0,MEDU8377143,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/81,1800005.0,MSCU3755671,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Vehicle,NCS/01AP/OVT/03/2024/525,750000.0,MECEDES BEZ 2003,WDBRF81J03F359084,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01AP/OVT/03/2024/526,730000.0,LEXUS ES 300 2003,JTHBF30G436015350,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01AP/OVT/03/2024/527,1000000.0,VOLKSWAGON GOLF 2003,9BWDE61JX34039159,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Container,NCS/TCIP/OVT/03/2024/33,1501200.0,CCLU2989731,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/34,2500000.0,CCLU3937286,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/36,2999999.0,CCLU6122986,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/39,3200000.0,GLDU0836500,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/40,1500150.0,GTOU3500611,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/44,1785099.0,MSCU4554922,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/46,1800000.0,MSMU8100018,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/49,5200000.0,OOLU9157554,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/51,4300040.0,TCNU4797618,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/52,1500001.0,TEMU3549535,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/56,1999999.0,TGBU7558556,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/58,2500000.0,UETU2516220,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Vehicle,NCS/01AP/OVT/03/2024/529,606000.0,H CIVIC CIVIC 0,1HGEM21974L0069339,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01AP/OVT/03/2024/537,659000.0,TOYOTA RAV 4 2004,JTEGD20V640009278,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01AP/OVT/03/2024/530,406030.0,INFINITY QX4 2002,JNRDR09Y52W255064,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01AP/OVT/03/2024/531,700000.0,PONTIAC TORRENT TORRENT 0,2CKD173F276006510,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01AP/OVT/03/2024/532,1300000.0,2007 VOLVO XC90 XC90 2007,YV4CZ982871347512,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01AP/OVT/03/2024/542,980000.0,TOYOTA CAMRY 2003,4T1BE30K73U229894,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01AP/OVT/03/2024/540,884000.0,KIA RIO RIO 2010,KNADH4A6659970,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01AP/OVT/03/2024/545,2500005.0,TOYOTA COROLLA 2013,5YFBU4EE3DP134991,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01AP/OVT/03/2024/546,670999.0,MAZDA MPV MPV 2002,JMZLW28A820319581,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01AP/OVT/03/2024/533,650000.0,OPEL VECTRA VECTRA 1997,VOLOJBF19V5229686,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01AP/OVT/03/2024/534,700000.0,VOLK SWAGEN PASSAT PASSAT 1998,WVWZZZ3BZWEO65072,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01AP/OVT/03/2024/535,600000.0,2014 LINCON FORD 2014,1LNHL9DK9EG601735,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01AP/OVT/03/2024/536,620000.0,2004 RENAULT MEGANE MEGANE 2004,VF1BMRF0531656771,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01AP/OVT/03/2024/538,612222.0,VOLCKSWAGEN JETTA 2006,3VWSG71k36M798946,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01AP/OVT/03/2024/541,600000.0,TOYOTA CAMRY 2000,4T1BG22K8YU644250,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01AP/OVT/03/2024/544,1500000.0,HYUNDAI AI 2007,5NMSG73D57H102786,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01AP/OVT/03/2024/547,1000000.0,M BENZ BEZ 2000,WDBHA24GXYA832789,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01AP/OVT/03/2024/548,780000.0,FORD EDGE EDGE 2007,2FMDK49C37BA20862,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01AP/OVT/03/2024/549,800000.0,TOYOTA CAMRY 1997,JY2BG22K4V0008102,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01AP/OVT/03/2024/577,2000000.0,KIA SORENTO SORENTO 2007,KNDJC736975730555,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01AP/OVT/03/2024/543,1500096.0,TOYOTA ACCORD 0,JHMCG65872C015122,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01AP/OVT/03/2024/551,1300008.0,HYUNDAI AI 2007,KMHDU46D87U066110,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01AP/OVT/03/2024/554,2100000.0,TOYOTA CAMRY 2005,4T1BE32K05U605299,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01AP/OVT/03/2024/558,1500000.0,PONTIAC VIBE VIBE 2005,5Y2SL638052458922,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01AP/OVT/03/2024/561,2800000.0,TOYOTA COROLLA COROLLA 0,1NXBU4EE8AZ358509,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01AP/OVT/03/2024/550,2432222.0,H ACCORD ACCORD 0,1HGCP2F72AA163481,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01AP/OVT/03/2024/552,950000.0,NISSAN ALTIMA ALTIMA 0,1N4AL21E89N537254,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01AP/OVT/03/2024/556,598000.0,TOYOTA CAMRY 0,4T1BG22K8XU411448,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01AP/OVT/03/2024/557,810000.0,T SOLARA SOLARA 0,4T1CA38P15U046879,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01AP/OVT/03/2024/562,896600.0,VOLVO 680 680 0,YVIAS982481048920,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01AP/OVT/03/2024/564,1000200.0,H ACCORD ACCORD 2008,1HGCP26348A129887,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01AP/OVT/03/2024/565,1560000.0,TOYOTA CAMRY 2006,JTDBE32K640270267,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01AP/OVT/03/2024/566,550000.0,TOYOTA RAV4 RAV 4 1998,JT3GP10V5W0021127,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01AP/OVT/03/2024/568,3670000.0,HONDA ACCORD 2014 ACCORD 2014,2HGFB2F81EH556092,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01AP/OVT/03/2024/569,550000.0,HYUNDAI HYUNDAI 2004,KM8SC73D14U583857,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01AP/OVT/03/2024/573,1100000.0,HONDA CIVIC CIVIC 2002,2HGES16562H504707,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/03/2024/553,1600000.0,TOYOTA CAMRY 2003,4T1BE32K03U740246,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/03/2024/555,1800000.0,HONDA CIVIC 2004,2HGES1655H561243,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/03/2024/559,1611111.0,HONDA ACCORD 2009,1HGCM56894A49128,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/03/2024/563,3222222.0,VOLKSWAGEN BUS 1997,WV1ZZZ10ZVX046319,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/03/2024/567,3500000.0,PONTIAC VIBE 2007,5Y2SL6382574458520,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/03/2024/570,3200000.0,HONDA ACCORD 2012,1HGCP2F83CA222579,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/03/2024/571,1300000.0,TOYOTA CAMRY 1998,4TI6622K0WU289496,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/03/2024/572,1000000.0,NISSAN ALTIMA 2003,1N4AL11D63C163344,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/03/2024/574,490000.0,TOYOTA AVALON 2000,4TBF28B0YU080019,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/03/2024/575,3000030.0,TOYOTA CAMRY 2007,4T1BE46K57U566115,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/03/2024/578,1600000.0,TOYOTA SOLARA 2007,2T1FF28P22C556518,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/03/2024/579,1500000.0,TOYOTA HIGHLANDER 2002,JTEHF21AX20075050,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/03/2024/580,801000.0,TOYOTA SOLARA 2003,2T1CE22P03C023616,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/03/2024/581,1350000.0,TOYOTA CAMRY 1999,4T1BF22K8XU076081,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/03/2024/582,1650000.0,KIA CARENS 2004,KNEFC523145320212,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/03/2024/583,1300000.0,HONDA ACCORD 2003,1HGCM56313A015171,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/03/2024/584,1900000.0,NISSAN ALTIMA ALTIMA 2007,1N4AL21E37C172751,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/03/2024/585,2700000.0,MAZDA CX-9 2008,JM3TB28A580123733,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/03/2024/560,3200000.0,TOYOTA COROLLA COROLLA 0,358509,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/03/2024/586,890000.0,TOYOTA CAMRY 0,U171054,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/03/2024/588,1000000.0,VOLVO S4 0,2026566,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/03/2024/589,600000.0,HONDA PASSPORT 0,X4427165,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/03/2024/590,1200000.0,MAZDA  PICKUP 4X4 0,M13678,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/03/2024/591,3300000.0,VOLCKSWAGEN GOLF 0,W438934,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/03/2024/592,2500001.0,TOYOTA PREVIA 0,1095565,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/03/2024/593,2500000.0,TOYOTA COROLLA 0,Z190759,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/03/2024/594,1000000.0,FORD  FOCUS 0,R14269,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/03/2024/595,1005000.0,MERCURY   JEEP AWD V8 0,J12414,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/03/2024/596,1700000.0,MERCEDES  BENZ 0,584913,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/03/2024/597,650000.0,TOYOTA CAMRY 0,573427,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/03/2024/599,2330000.0,TOYOTA SIENNA 0,288263,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/03/2024/600,2800000.0,TOYOTA SIENNA 0,U266185,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/03/2024/601,2220000.0,HONDA PILOT 0,B027945,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/03/2024/602,1110000.0,MERCEDES BENZ ML300 2000,4JGAB5EXWA010468,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/03/2024/603,1300000.0,FORD  FUSION 0,R212955,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/03/2024/605,1200000.0,TOYOTA CAMRY 0,U861931,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/03/2024/606,2500000.0,TOYOTA COROLLA 0,530956,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/03/2024/608,2555665.0,NISSAN  XTERRA 0,C552702,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/03/2024/609,2100000.0,HYNDAI  ELANTRA 0,U922641,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/03/2024/610,800000.0,NISSAN  MAXIMA 0,512275,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/03/2024/611,2000000.0,HONDA ACCORD 0,A003789,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/635,999999.0,MAZDA MPV 2003,730371950,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/636,699999.0,CHRYSLER Voyager 1999,IC4GYB4R4XU126070,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/637,6800000.0,HONDA ACCORD 2014,IAGCR2E56EA027502,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/638,850000.0,TOYOTA MATRIX 2001,2T1KR30316L613223,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/640,1700000.0,HONDA ODYSSEY 2007,5FNRL38467B045981,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/641,1150000.0,TOYOTA 4-RUNNER 2001,JT3HN86RX10334924,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/642,1300000.0,TOYOTA SIENNA 1999,4T32F13C5XE136650,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/643,1500000.0,HONDA PILOT 2005,5FNYF18635B009977,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/644,780000.0,TOYOTA AVALON 1998,4T1BF18B4WU265858,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/645,710000.0,RENAULT Megane 2002,VF1JA0WN523467341,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/646,1750000.0,PONTIC VIBE 2005,5425L638X52447135,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/647,1700000.0,TOYOTA SIENNA 2002,4T32F19L62U484893,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/648,670000.0,TOYOTA SOLARA 2005,4T1CE38P25U96716,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/649,800000.0,NISSAN QUEST 1998,4N2ZN1118WD806169,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/650,800999.0,HONDA CRV 1998,1THRD1750WC253666,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/651,1010000.0,HONDA CIVIC 2004,JHMES96634S004245,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/652,700000.0,CHRYSLER Pacifica 2005,ZC4GF68445R366693,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/653,1400000.0,TOYOTA CAMRY LE 2004,4T1BE32K74U935021,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/654,2000000.0,TOYOTA  COROLLA 2000,JT172AEB107071446,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/655,1104000.0,HONDA ACCORD 2005,IHGCF56475A136590,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/656,1650000.0,HONDA ACCORD 2006,IHGCM56136A162160,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/657,1070000.0,TOYOTA  CAMRY 2001,4TIBE32K1ZU546825,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/658,890000.0,NISSAN ALTIMA 2003,1N4AL11D93C342896,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/659,930000.0,HYNDAI  ELANTRA 2004,KMHDN46D24U922641,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/660,1500000.0,HONDA PILOT 2001,2HKF18574H502749,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/661,2600000.0,HONDA ODYSSEY 2007,5WFRL38637B427001,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/662,790780.0,TOYOTA  CAMRY 2002,4T1BE32K32U097664,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/664,900000.0,TOYOTA  AVALON 2011,4TIBK3DOBU395613,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/665,2500000.0,VOLVO VOLVO 2005,6YV1CZ5928511407486,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/666,3100000.0,TOYOTA  4RUNNER 2000,JTE2U14R260064975,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/667,620555.0,VOYAGER VOYAGER 2000,659418X,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/668,1130000.0,HYUNDAI  SANTAFE 1994,KMHSC81ARU121964,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/670,990000.0,VOLVO 580 1998,YVTTS97D7X1043771,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/671,1030000.0,HONDA ACCORD 2006,1HGCM551X6A006778,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/672,2900000.0,TOYOTA CAMRY 2007,45139,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/673,2500001.0,LEXUS  E330 2004,JTHBA30G845028236,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/674,1650000.0,HONDA ACCORD 2012,1HGCP2F44CA011680,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/675,1500000.0,BMW  325Xi 2001,WBAAV33421EE75997,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/676,910000.0,HONDA ACCORD 2000,1HGCG6650YA089967,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/677,1200000.0,NISSAN  NISSAN 2004,1N4BA41E44C38853A,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/678,1400000.0,RANGE ROVER 2004,SALME11484A167791,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/679,1010000.0,MERCEDES BENZ C CLASS 2003,WDBRF61183A496243,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/680,1650000.0,TOYOTA CAMRY 2011,4T1BE3EK2BU155336,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/681,1000000.0,HONDA PILOT 2001,A232679,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/682,1100000.0,HYUNDAI ELANTRA 2005,KMHDN46D05U188762,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/683,1920000.0,VOLKSWAGON GOLF 2000,WWWZZZ3AZSE083021,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Container,NCS/TCIP/OVT/03/2024/82,1800000.0,CAXU7016430,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/84,3000000.0,CSNU6953627,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/85,3200000.0,CSNU6986976,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/86,2800000.0,FCIU9150070,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/89,2611111.0,GLDU7661929,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/91,3100000.0,HLXU5332118,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/92,2800000.0,JOLU4084779,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/TCIP/OVT/03/2024/83,1550000.0,CBHU7014672,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/PTML/OVT/03/2024/94,4711110.0,APHU6646756,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/PTML/OVT/03/2024/95,1603000.0,BMOU3080589,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/PTML/OVT/03/2024/96,2030000.0,CMAU6004121,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/PTML/OVT/03/2024/97,1740000.0,PCIU4650313,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/PTML/OVT/03/2024/98,2050000.0,UACU5562311,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/PTML/OVT/03/2024/99,1560000.0,TRLU9113617,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/PTML/OVT/03/2024/100,2010000.0,SEGU1053215,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/PTML/OVT/03/2024/101,1550000.0,PCIU8578546,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/PTML/OVT/03/2024/102,1805000.0,ECMU4071329,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/PTML/OVT/03/2024/103,1600000.0,PIDU4056232,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/PTML/OVT/03/2024/104,1600000.0,PCIU1653078,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/PTML/OVT/03/2024/105,1900000.0,TLLU5831786,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/PTML/OVT/03/2024/106,1650000.0,CMAU5776938,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/PTML/OVT/03/2024/107,1600000.0,CLHU2795905,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/PTML/OVT/03/2024/108,2250509.0,TCNU2380311,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/PTML/OVT/03/2024/109,1999766.0,CSNU6979220,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/PTML/OVT/03/2024/110,1700000.0,PCIU0169958,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/PTML/OVT/03/2024/111,4511100.0,ACLU9779415,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/PTML/OVT/03/2024/112,3677777.0,GCNU1220147,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Container,NCS/PTML/OVT/03/2024/113,4500000.0,ACLU9699006,Cont23456,Used_Items_In_Container,Container_Like,None,None
+Vehicle,NCS/TCIP/OVT/03/2024/684,1600000.0,TOYOTA CAMRY 2000,JT2BG22K9Y0437532,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/685,2200000.0,TOYOTA RV4 2001,JTEHH20V910079507,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/686,655610.0,LIBERTY JEEP 2003,1J4GL58K23W586141,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/687,650000.0,JAGUAR XF 1999,SAJAA01E5XFL19415,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/688,456765.0,CHRYSLER SEBRING 2004,4C3AG42GX4E151571,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/689,800000.0,TRANSIT BUS 1994,WV2ZZZ70ZRHO77227,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/690,1150000.0,HONDA CIVIC 2006,2HGFA16856H525653,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/691,1810000.0,NISSAN VERSA 2004,3N1CN7AP4FL837450,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/692,890000.0,NISSAN PATHFINDER 2009,5N1AR18U49C609607,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/693,602151.0,HONDA PILOT 2004,5FNYF18584B008605,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/694,1089000.0,VOLKSWAGEN PASSAT 2000,WVWZZZ3BZYE266788,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/695,1300666.0,TOYOTA SIENNA 1999,4T3ZF13C9XU147764,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/696,1354500.0,BMW X3 2006,WBXPA93426WG87024,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/697,850000.0,HONDA ACCORD 2008,IHGCM56785A189025,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/698,800000.0,NISSAN QUEST 2003,5N1BV28U36N117544,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/699,1300000.0,TOYOTA HIGHLANDER 2002,JTEHF21AX20086663,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/700,630000.0,HONDA CIVIC 2005,2HGES16365H613199,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/701,470000.0,HONDA ELEMENT 2003,5J6YH286X3L053849,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/702,691202.0,M BEZ ML ML 2001,4JGAB57E13A407509,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/703,1001023.0,TOYOTA SIENNA 2003,4T3ZF13C3WU054948,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/704,550000.0,MITSUBISHI MONTERO 2000,JA4MW51R01J002654,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/705,750000.0,TOYOTA 4Runner 2002,JT3GN87R2W0062564,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/706,1900000.0,LEXUS IS 2007,JTHCK262276012397,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/707,901000.0,NISSAN ALTIMA 2002,1N4BL2AP2CC173888,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/708,2003500.0,TOYOTA COROLLA S 2009,2T18R32E93C157142,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/709,1777777.0,VOLKWAGEN PASSAT 2003,WVWZZZ3BZ3E317835,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/710,800000.0,HONDA PILOT 2005,HKFY18615H569805,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/711,1310000.0,Mercedes C CLASS 2007,WDBRF92H87F919165,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/712,950000.0,MAZDA 5 2007,JM1CR29L270136880,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/713,800000.0,TOYOTA CAMRY 2001,4T1BF22K11U130389,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/714,560000.0,VOLKSWAGEN NEW BEETLE 2001,3VWCK21C21M422505,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/715,1021500.0,FORD GALAXY 1999,WF0GXXPSWGXL30775,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/716,656450.0,HONDA ACCORD 2007,1HGCM66447A089415,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/717,1300000.0,Mercedes E 500 2004,WDBUF70J34A397879,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/718,550000.0,HONDA CIVIC 2005,2HGES15515H568160,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/719,500000.0,SUBARU FORESTER 2003,JF1SG656038719474,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/720,640000.0,TOYOTA CAMRY 2005,4T1BE32K65U037673,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/721,700000.0,JAGUAR XJ 1990,SAJFY1743LC625630,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/722,1000100.0,HONDA ODESSEY 2004,5FNRL18554B008168,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/723,1300000.0,TOYOTA SIENNA 2000,4T3ZF13C2YU202072,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/724,900000.0,HONDA ACCORD 2005,1HGCM56405A037965,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/725,2502150.0,TOYOTA CAMRY 2004,4T1BF30K84U583373,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/726,630000.0,MAZDA MPV 2007,JM3LMW28A720308216,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/727,1900000.0,TOYOTA CAMRY 2002,4T1BF30K72U511237,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/728,1100000.0,TOYOTA Previa 1991,JT3AC11R0M0072082,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/729,711111.0,TOYOTA CAMRY 1999,4T1BG22K4XU494098,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/730,712611.0,TOYOTA HIGHLANDER 2006,JTEDW21AX60011126,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/731,860000.0,TOYOTA Corolla 1999,2T1BR12E1XC106597,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/732,800000.0,VOLKSWAGEN Golf 2000,WVWGC21J6YW750116,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/03/2024/733,1250000.0,LEXUS ES 2007,JTHBJ46G672048407,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/734,1002100.0,LEXUS ES350 2009,JTHBJ46G092308349,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/735,1116550.0,FORD EDGE 2011,2FMDK4JC8BBA66238,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/736,1021850.0,TOYOTA COROLLA 2003,2T1BR38E73C127399,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/737,756320.0,FORD E250 ECONOLINE VAN 2005,1FTNE24L35HA80183,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/738,454333.0,MERCEDES BENZ S430 2000,WDBNG70J9YA006824,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/739,578827.0,FORD E350 ECONOLINE VAN 2002,1FDSE35L42HA45022,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/740,1002140.0,TOYOTA HIGHLANDER 2006,JTEDP21A160113055,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/741,970122.0,CHEVROLET CRUZE 2011,1G1PC5SH4B7169429,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/742,850000.0,SUBARU B9 TRIBECA 2007,4S4WX82D974410718,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/743,1051000.0,LEXUS IS 250 AWD 2008,JTHCK262585025114,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/744,485000.0,VOLVO XC70 2004,YV1SZ59H541127101,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/745,701850.0,HYUNDAI SANTA FE 2000,KMHSC81BP5U869767,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/746,1054453.0,HONDA ACCORD 2010,1HGCP2F47AA026672,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/747,964683.0,VOLVO XC90 2010,YV4982CZXA1555228,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/748,620000.0,FORD GALAXY 2000,WF0GXXPSWGWP69055,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/749,678977.0,VOLKSWAGAN GOLF 1996,WVWZZZ1HZTW322364,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/750,962209.0,LEXUS IS 250 AWD 2006,JTHCK262062002998,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/751,821011.0,LEXUS RX300 2002,JTJGF10U920146581,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/752,550000.0,FORD ESCAPE 2009,1FMCU93GX9KA60931,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/753,670000.0,NISSAN X-TRAIL 2005,JN1TBNT30U0105618,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/754,670000.0,NISSAN PICK UP 2003,JN1BPUD22U0084502,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/755,853150.0,TOYOTA HIGHLANDER 2002,JTEGF21A820039272,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/756,780000.0,TOYOTA CAMRY 1998,JT2BF22K1W0137502,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/757,727110.0,LEXUS ES300 2003,JTHBF30G230138972,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/758,670000.0,OPEL OMEGA 2001,W0L0VBF6911100330,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/759,585000.0,VOLKSWAGAN PASSAT 2003,WVWWH63B63E011711,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/760,530000.0,VOLVO S80 2009,YV1AH992891094703,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/761,1351900.0,TOYOTA COROLLA 2006,1NXBR32E96Z584579,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/762,690000.0,HONDA ACCORD 2003,1HGCM56894A007297,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/763,2701150.0,FORD EXPLORER 2013,1FM5K8D80DGA05870,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/764,721000.0,VOLKSWAGEN GOLF 2008,WVWZZZ1KZ8M364549,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/765,800000.0,TOYOTA SIENNA XLE 2000,4T3ZF13C8YU178778,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/766,530000.0,FORD TRANSIT 2000,WF0LXXGBVLXT74051,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/767,520009.0,INFINITI QX4 2002,JNRDR09Y32W258271Z,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/768,561111.0,MERCEDES BENZ GENERAL 1976,10702412013014,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/769,860989.0,SATURN VUE 2009,3GSDL43N79S562141,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/770,500000.0,MITSUBUSHI SPACE STAR 2001,XMCLRDG3A2F019795,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/771,1251850.0,PONTIAC VIBE 2009,5Y2SP67039Z467466,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/772,1011111.0,KIA SOUL 2010,KNDJT2A20A7176370,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/773,571400.0,BMW MODEL 3 2003,WBAEU33463PH88627,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/774,780000.0,FORD EDGE 2009,2FMDK48C09BA82143,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/775,600000.0,TOYOTA COROLLA 2002,2T1BR12E22C532775,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/776,1313000.0,FORD FOCUS 2016,1FADP3E25GL360923,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/777,1052498.0,TOYOTA SIENNA 2005,5TDZA23C25S332712,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/778,650000.0,VOLKSWAGEN GOLF 1995,WVWZZZ1HZSB136654,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/779,641809.0,MERCEDES BENZ C200 2006,WDB2032451F129281,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/780,800000.0,FORD FOCUS 2006,1FAFP34N26W206641,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/781,1193080.0,HYUNDAI ELANTRA 2010,KMHDU4AD3AU017704,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/783,1033333.0,HONDA ODYSSEY 2006,5FNRL38816B071101,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/784,700000.0,TOYOTA SIENNA 2004,5TDZA23C04S124388,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/785,800000.0,MERCEDES BENZ C180 2006,WDB2020781F913465,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/786,1201149.0,MERCEDES BENZ C180 2006,WDB2020781F844902,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/787,590000.0,MERCEDES BENZ C180 1997,WDB2020781F829338,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/788,690000.0,TOYOTA PREVIA 1992,JT3AC11R9N1019294,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/789,830000.0,HONDA ODYSSEY 2005,5FNRL38295B090991,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/790,734433.0,JAGUAR XJ8 1998,SAJHX1249WC848763,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/791,1015000.0,VOLVO XC90 2008,YV4CZ982681418935,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/792,900000.0,NISSAN VERSA 2007,3N1BC13E17L360584,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/793,610111.0,NISSAN TINO 2005,VSKTBAV10U0197909,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/794,653410.0,NISSAN ALTIMA 2011,1N4AL2AP9BN404025,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/795,590000.0,FORD FOCUS 2007,1FAFP36N97W146646,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/796,905409.0,TOYOTA AVALON 2002,4T1BF28B22U248931,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/797,1418333.0,LEXUS ES350 2008,JTHBJ46G082210629,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/798,475900.0,BMW 740 2000,WBAGH8341YDP16475,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/799,623999.0,VOLKSWAGEN POLO 2004,WVWZZZ9NZ4Y007483,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/800,580000.0,KIA SEDONA 2007,KNDMB233476106164,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/801,850000.0,NISSAN VERSA 2009,3N1BC13E99L419433,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/802,550000.0,CHRYSLER PACIFICA 2006,2A8GF68446R698594,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/803,677000.0,ACURA MDX 2001,2HNYD18811H512963,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/804,650000.0,MERCEDES BENZ C200 2002,WDB2032421F297683,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/805,802099.0,HONDA CIVIC 2010,2HGFA1F53AH530171,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/806,600000.0,MITSUBISHI LANCER 2001,JMBLREA5WWZ000193,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/807,865000.0,TOYOTA SIENNA 2005,5TDBA23C05S052921,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/808,750000.0,SUZUKI FORENZA 2008,KL5JD56Z08K301837,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/809,1422200.0,TOYOTA CAMRY 2009,4T1BE46K39U873351,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/810,984330.0,VOLVO XC90 2007,YV4CZ982471407463,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/811,912410.0,TOYOTA SIENNA 2002,4T3ZF13C52U416805,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/812,800000.0,NISSAN PATHFINDER 2003,JN8DR09Y13W810677,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/813,1058509.0,TOYOTA COROLLA 2006,2T1BR32E56C584080,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/814,730222.0,MITSUBISHI SPACE WAGON 1998,JMBLNN84WYZ002072,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/815,555555.0,MERCEDES BENZ E320 2003,WDEUF65JX3A157200,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/816,684000.0,KIA FORTE 2010,KNAFU4AZXA5852699,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/817,501000.0,TOYOTA SOLARA 2005,4T1CE3825U969716,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/818,611001.0,HYUNDAI ACCENT 2006,KMHCN46C76U051077,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/819,452189.0,MISTIBUSHI SPACE STAR 1999,XMCLNDG5AXF070530,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/820,500000.0,MERCEDES BENZ C300 0,463502,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/821,580524.0,HONDA PILOT 2004,2HKYF18404H597061,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/822,492200.0,NISSAN ALTIMA 3.5SE V6 2003,1N4BL11D33C178498,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/823,445812.0,TOYOTA COROLLA 2007,1NXBR32E57Z912954,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/04/2024/824,631000.0,TOYOTA CAMRY LE 2002,4T4DF1FK40RZ51950,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/825,425000.0,MERCEDES BENZ E320 1998,WDBJF6SF8WA643250,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/826,445000.0,MERCEDES BENZ C320 2001,WDBRF64J21F076344,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/827,450000.0,TOYOTA AVALON 2003,4T1BF2BB33U301539,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/828,510000.0,HYUNDAI NELSON 2008,5NPEU46F38H367518,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/829,540000.0,TOYOTA AVENSIS 2010,SB164ABN10E078537,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/830,530000.0,PEUGEOT 807 2001,BF3EB4HWB613089597,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/04/2024/831,1560000.0,HONDA CIVIC 2006,2HGFG12866H562926,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/832,460999.0,NISSAN XTERRA 2000,5N1ED28TXYC552941,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/833,480000.0,TOYOTA CAMRY 2009,4T1BE46K2912387,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/834,580000.0,TOYOTA CAMRY LE 2001,4T1BG22K614068579,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/835,480000.0,MISTIBUSHI GALLANT 2007,4A3AB36F47E041818,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/836,610000.0,VOLKSWAGEN GOLF 1996,WVW2221K26B161317,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/837,600000.0,OPEL ASTRA 1.9 2005,W0L0AHL3555191406,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/838,772000.0,HONDA FIT 2008,JHMGD38658S047178,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/839,501200.0,BMW 520i 2000,WBADR11080GT00742,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/840,490000.0,MAZDA MPV ES 2000,JM3LW28G6Y0116783,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/841,480000.0,FORD FOCUS 2010,WX0AXXGCDAWB65028,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/842,490000.0,TOYOTA SIENNA LE 2002,5TDYKEDC4ES509080,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/843,470000.0,AUDI A4 2008,WAUDF78E18A133104,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/844,588111.0,KIA SORENTO 2009,KNDJDF35X95868998,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/845,609111.0,TOYOTA CAMRY XLE 2007,4T1BE46K07U1A3927,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/846,874000.0,FORD FOCUS 2016,1FADP3F28GL305266,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/847,420000.0,MAZDA 3 1998,JM1BK12F681824956,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/848,485000.0,HONDA ACCORD 2007,1HGCM71747A001924,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/849,503600.0,TOYOTA CAMRY LE 2007,4T1BE46KX7U073322,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/850,522900.0,LEXUS ES350 2003,JTHBF30G336019051,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/851,582828.0,VOLKSWAGEN GOLF 3 1996,WVWZZZ1HZTW438934,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/852,570000.0,TOYOTA CAMRY LE 2007,4T1BE46K67U088285,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/853,435000.0,MERCEDES BEN A Class 2001,007805,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/854,440010.0,TOYOTA CAMRY LE 2001,4T1BG22K91U823126,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/855,490000.0,TOYOTA MATRIX XR 2005,2T1KR32E25C875022,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/856,450000.0,MAZDA 6 2005,1YVHP80D565M51284,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/857,525000.0,VOLVO S40 2005,YVIMH682X52114659,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/858,490000.0,TOYOTA CAMRY LE 2001,4T1UG22K41U086692,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/859,560000.0,MAZDA MPV 2003,JM3W28A330378782,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/860,460111.0,TOYOTA CAMRY LE 2004,4T1BE32K74U935021,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/861,480000.0,HONDA CIVIC 2000,5HHMB2710YU156707,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/862,500000.0,NISSAN MURANO 2003,JN8A205W23W210351,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/863,470000.0,MERCEDES BENZ A190 2001,WTE16803211310362,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/864,430000.0,HONDA ODYSSEY 2000,2HKRL1861YA553140,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/865,608619.0,LEXUS ES330 2004,JTHBA30GX45020347,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/866,520000.0,MERCEDES BENZ C240 0,569606,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/867,1017542.0,TOYOTA COROLLA 2009,JTDBL40E19J003578,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/868,480007.0,CHEVROLET OPENBODY 2001,1GCEC14W012333796,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/869,610000.0,FORD ESCAPE 2008,1FMCU03128KA78751,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/870,426700.0,HONDA ACCORD LX 2001,1HGCG65571A061342,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/871,425999.0,TOYOTA COROLLA 2010,1NXBU4EE6AZ383909,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/872,470300.0,HYUNDAI SANTA FE 2004,KM8SC73E94U727003,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/873,580000.0,PONTIAC VIBE TORRENT 2008,2CKD143F886050799,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/874,575000.0,TOYOTA SIENNA 2000,4T32F19C8YU268777,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/875,440999.0,NISSAN ALMERA 2000,5JFDAN16U0105224,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/876,455000.0,FORD FOCUS 2001,WF0AXXGCDA1K02264,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/877,500000.0,HONDA ACCORD 2003,1HGCM563838067221,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/878,700000.0,TOYOTA SIENNA XLE 2005,4T3ZF13XYU28863,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/881,675460.0,MERCEDES BENZ C32 2001,WDBRF64J71F125201,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/882,864470.0,TOYOTA MATRIX 2003,2T1KR32E03C098319,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/883,475500.0,JAGUAR STYPE 1999,SAJAA01E5XF1L19415,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/884,924000.0,BMW 745LI 2003,WBAGN63473DR12961,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/885,720022.0,TOYOTA CAMRY 2000,4T1UG22K7YU674810,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/886,595000.0,CHEVROLET PICKUP 2001,1GCCS145418193744,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/887,601000.0,HYUNDAI ELENTRA 2002,KMHDN54022U371237,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/888,1508090.0,TOYOTA CAMRY 2004,4T1BE32K94U933755,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/889,879221.0,TOYOTA CAMRY 2003,4T1BE32K83U124312,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/890,530000.0,HONDA ACCORD 2004,1HGCN66554A089282,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/891,900000.0,MAZDA LX 2003,JM3LW28A830345535,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/892,540000.0,FORD MONDEO 2010,WF0AXXGBBAXJ20155,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/893,877777.0,TOYOTA CAMRY 1999,4T1BG22K3XU403418,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/894,920000.0,HONDA ACCORD 2010,IHGCP2F87CAA147952,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/895,735160.0,TOYOTA CAMRY 2005,4T1BF30K25U107508,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/896,490000.0,RANGE ROVER 46 SE 2001,SALPL164X1A451320,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/897,734121.0,TOYOTA COROLLA 2003,1NXBR32E03Z045683,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/899,580000.0,AUDI TDI 2002,WAUZZZ8EX2A216496,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/900,662000.0,MAZDA MPV 2010,JM3WW28A330378782,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/901,560000.0,OPEL VECTRA 1998,W0L0JBF19W1032590,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/902,1763090.0,TOYOTA SIENNA 2010,5TDYK4CC0AS295707,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/904,452002.0,NISSAN PATHFINDER 2001,JN80R09XB1W561443,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/905,822222.0,NISSAN ALTIMA 2003,1N4BL11D33C178498,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/906,602000.0,TOYOTA SIENNA 2001,4T32F13C41U328536,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/907,927090.0,HYUNDAI  SUNATA 2007,5NPETA6CX7H252194,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/908,921000.0,HYUNDAI  ELANTRA 2008,KMHD446D584525014,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/909,1890000.0,NISSAN  MURANO SL 2010,JN8AZ1MU4AW005945,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/910,670000.0,NISSAN  FRONTIER 2004,1N6ED27T04C430134,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/911,510000.0,MERCEDES BENZ  E320 2004,WDBUH65J54A460008,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/912,520111.0,FORD  RANGER 1994,1FTCR15U0RTA51627,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/913,720999.0,CHEVROLET  EQUINOR LS 2005,2CNDI13F856109797,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/914,560000.0,HONDA ODESSEY 2007,5FNRL38777B115773,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/915,500320.0,INFINITI  QX4 1998,JNRAR05Y9WW024424,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/916,760005.0,OPEL  ASTRA 1.9 2005,W0L0AHL3555191406,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/917,900000.0,VOLKSWAGEN PASSAT 2.0I 2006,WVWAK73C26P046796,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/918,803000.0,TOYOTA CAMRY  2002,4T1BE32K82U595858,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/919,1311460.0,PEUGEOT  406 2008,VF38BLFYT80993857,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/920,630000.0,HONDA  ACCORD 2001,1HGCG22501A012854,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/922,551161.0,TOYOTA  AVENSIS 2001,XBI64ABX110E078537,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/923,590135.0,MAZDA  MPV 2000,JM3LW2HT3Y0113615,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/924,3003390.0,TOYOTA  VENZA 2009,4T3ZK11A69U006747,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/925,1551140.0,TOYOTA  RAV 4 2006,JTMBK31V265011026,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/926,630999.0,HONDA  ACCORD 2012,1HGCP3F85CA024236,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/927,608566.0,MERCEDES BENZ  C230 2007,WDBRF52H17E026236,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/928,801375.0,MAZDA  CX-9 2007,JM3TB28Y370112273,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/929,872720.0,TOYOTA  SIENNA 1999,4T3ZF13C4XU170370,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/930,782140.0,TOYOTA  TUNDRA 2002,5TBBT44162S265430,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/931,650000.0,MAZDA   MAZDA 3 2006,JM1BK12F361400812,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/932,530000.0,MERCEDES BENZ  C230 2006,WDBRF52H86881893,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/933,1344111.0,BMW  X2 2020,WBXYJ1C04L5P32644,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/934,552222.0,NISSAN  MAXIMA 2008,1N4BA41E58C820498,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/935,803000.0,LEXUS  GS350 2008,JTHBE96S980030230,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/936,684000.0,HONDA  ACCORD COUPE 2017,1HGCT2B89HA001044,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/937,1122140.0,HONDA  CROSSTOUR EX-L 2012,5J6TFBH34CL002262,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/938,480900.0,HONDA  ACCORD 1993,1HGCB7653PA168465,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/939,821240.0,TOYOTA  CAMRY 2002,4T1BE32K82U501171,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/940,1003539.0,TOYOTA  TACOMA 2009,5TETX22N29Z644111,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/941,762439.0,CITROEN  JUMPER HAIL 2006,VF7ZBPMNC17724454,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/942,700000.0,PORSCHE  CAYENNE  2005,WP1AB29P65LA63909,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/943,660000.0,FORD  EDGE 2015,2FMPK4K89FBC31467,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/945,1406110.0,TOYOTA  CAMRY 2012,4T1BF1FKXCU030654,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/946,525000.0,HONDA  ACCORD 2004,1HGCM56624A088030,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/947,585000.0,HONDA  CIVIC 2006,1HGFA16516L094351,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/948,600000.0,HONDA  ACCORD 2005,1HGCM56475A137030,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/949,485000.0,VOLKSWAGEN  PASSAT 2001,WVWPH63B41E153069,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/950,560000.0,VOLVO   XC90 2005,YV1CM592251158046,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/951,635640.0,HONDA  ACCORD 2016,1HGCR2F90GA159806,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/952,820000.0,TOYOTA  COROLLA 2004,1NXBR32E04Z341983,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/953,802140.0,TOYOTA  CAMRY 2017,4T1BF1FK2HU387138,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/954,600000.0,MERCEDES BENZ  C240 4MATIC 2004,WDBRF81J84F493181,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/955,1050000.0,UNIC  TRUCK+1 1992,ZCFA6581002993426,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/956,621000.0,DODGE RAM  PICK-UP 1999,187GG22XXYS555974,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/957,501000.0,MERCEDES BENZ  ML430 1997,4JGAB57E83A410407,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/958,459999.0,MITSUBISHI  ENDEAVOR 4WD 2008,444MN21S78E018405,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/959,898321.0,Lexus IS 250 2008,JTHBK262085066665,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/960,600500.0,HONDA  PILOT 2005,2HKYF18615H569305,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/961,600000.0,RENAULT  MEGANE 2002,VF1BA040222216471,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/962,460000.0,ACURA  TSX 2002,19UUA56942A008277,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/963,642144.0,HONDA  CIVIC  2010,2HGFA1FS5AH3203333,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/05/2024/944,1026410.0,LEXUS  RX 330 2005,2T2GA31UX5C029500,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/964,445000.0,HONDA  ACCORD 1994,1HGCD563XRA125709,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/965,1700001.0,TOYOTA CAMRY 2000,4T1BF28K0YU956118,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/966,3100000.0,VOLKSWAGEN  GOLF 1997,WVWZZZ1HZVW357268,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/967,666666.0,HONDA  ACCORD 1992,1HGCB7555NA232679,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/968,1000000.0,HONDA  ACCORD 2003,1HGCM66583A082406,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/969,550000.0,NISSAN  PATHFINDER  1999,JN8AR07Y5XW379031,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/970,1650000.0,NISSAN  FRONTIER 2004,W6ED27T046430134,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/971,5000000.0,MERCEDES BENZ  C300 2011,WDDGF8BB9BR186216,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/972,8500000.0,TOYOTA  COROLLA 2014,2T1BURHE3EC156175,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/973,2600000.0,TOYOTA  CAMRY 2003,4T1BE32K53U730389,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/974,1070222.0,OPEL  ASTRA 2000,WOLOTGF48Y6051547,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/975,1123333.0,BMW  X5 2003,5UXFA53563LV86085,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/976,2010010.0,TOYOTA  MATRIX 2004,2T1KR38E34C217490,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/977,650000.0,CHRYSLER  TOWN&COUNTRY  2006,2A4GP54L26R688457,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/978,4500000.0,BMW  328i 2016,WBA8E9G54GNT44161,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/979,900000.0,VOLVO  S60 T5 2001,YV1RX53D312001611,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/980,951000.0,MAZDA  626 2000,JMZGF12P201122355,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/981,3500000.0,HYUNDAI  SONATA 2008,5NPET46C48H342782,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/982,1920000.0,TOYOTA  CAMRY 2003,4T1BF30K83U056996,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/983,650000.0,JEEP 2.7L LIBERTY 2003,1J4GL48K53W610023,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/984,1050000.0,MERCEDES BENZ  ML 320 2002,4JGAB54272A325633,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/985,1299999.0,TOYOTA  CAMRY 2000,JT2BG22K6Y0424575,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/986,730000.0,VOLKSWAGEN  VENTO 1994,WVWZZZ1HZRW219590,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/987,620000.0,TOYOTA  CAMRY 1997,4T1BF22KXVU907478,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/988,3450000.0,LEXUS  ES 330 2006,JTHBA30G165155171,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/989,900000.0,JEEP  LIBERTY 2004,1J8GL38K94W199686,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/990,4900000.0,TOYOTA  COROLLA 0,218859,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/991,1700000.0,HONDA  PILOT 2006,2HKYF18536H560405,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/992,1000000.0,TOYOTA COROLLA 2000,1NXBR12EXYZ340494,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/06/2024/993,877000.0,DODGE  CHARGE SE 2008,2B3KA43R68H112916,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/994,510000.0,MERCEDES BENZ  ML 1998,4JGAB54EXWA010468,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/995,3780000.0,TOYOTA  CAMRY 2003,4T1BE32K23U157936,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/996,3900000.0,BMW  SERIES 328i 2010,2010,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/997,600000.0,MERCEDES BENZ  S320 1997,WDBGA33G9VA334338,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/998,1500000.0,FORD  EDGE SEL 2012,2FMDK4JC3CBA75933,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/999,1420000.0,FORD  RANGER 2001,1FTYR14E41TA23141,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/1000,739777.0,HONDA  ACCORD 2006,A062687,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/1001,1100000.0,TOYOTA  PRIUS 2007,JTDKB20U940006225,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/1002,1254100.0,MAZDA  3 2009,JM1BK344191212754,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/1003,890000.0,CHEVROLET  EXPRESS VAN 2000,1GCHG39R3Y1206484,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/1004,1300999.0,LEXUS  GS430 2003,2687,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/1005,1100000.0,PONTIAC  VIBE 2003,5Y2SL65886Z438979,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/1006,810000.0,VOLSKWAGON  JETTA 2008,3VWJM71K68M037058,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/1007,606999.0,TOYOTA  HIGHLANDER 1998,5T0YKR5H3G5159052,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/1008,698000.0,TOYOTA  COROLLA 2003,2T1BR32E43C029892,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/1009,1805000.0,TOYOTA  CAMRY 2011,685312,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/1010,1680000.0,TOYOTA MATRIX 2009,2T1KE40E29C002106,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/1011,851000.0,VOLSKWAGON  GOLF 0,565520,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/1012,2000000.0,FORD  F-150 PICK-UP 2010,1FTEX1E85AFB86512,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/1013,950000.0,NISSAN   XTERRA 2004,661192,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/1014,720000.0,DODGE  CARAVAN 1996,2B4FP25B0TR753837,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/1015,720000.0,NISSAN  PATHFINDER 0,269742,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/1016,512000.0,INFINITI INFINITY 2003,JNKAY41E43M004773,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/1017,850000.0,VOLSKWAGON PASSAT WAGON 1995,WVWZZZ3AZSE019843,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/1018,741234.0,HONDA  ACCORD 2003,58473,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/1019,650000.0,HONDA  CRV 2001,29212,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/1020,1200000.0,CHEVROLET  MALIBU 0,159284,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/1021,640876.0,CHEVROLET  TAHOE 0,300591,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/1022,2700000.0,FORD  EXPLORER XLT 0,A48638,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/1023,4079000.0,TOYOTA  COROLLA 2012,209782,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/1024,1000084.0,FORD  F150 2005,B38189,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/1025,2127000.0,TOYOTA  SIENNA LE 2012,5TDKK3DC3CS274691,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/1026,1100000.0,VOLVO  XC-90 2008,YV4CZ982181480775,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/1027,580000.0,INTINITI  FX-35 0,101862,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/1028,1250000.0,TOYOTA  HIGHLANDER 2011,5TDBK3EH4BS069177,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/1029,1111111.0,KIA  RIO 2009,KNADE223X96445827,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/1030,1400000.0,FIAT  DUCATO VAN 0,721023,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/1031,1200000.0,MERCEDEZ BENZ  E320 0,681232,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/1032,620000.0,TOYOTA  TUNDRA V8 1999,5TBRT3417YS023599,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/1033,671000.0,TOYOTA  CAMRY 1999,962284,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/1034,1301000.0,LEXUS  RX300 2001,JTJGF10U810115367,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/1035,760000.0,NISSAN  PATHFINDER 0,713983,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/1036,1330000.0,TOYOTA  SIENNA 2000,4T3ZF13C9YU233027,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/1037,850000.0,TOYOTA  CAMRY 2001,4T1BG28K61U819803,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/1038,1800000.0,HONDA  ACCORD 2006,C003792,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/1039,4073000.0,TOYOTA  CAMRY 2011,175937,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/1040,1900500.0,FIAT  DUCATO VAN 0,964945,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/06/2024/1041,1350999.0,TOYOTA  CAMRY 2002,4T1BE32K02U557928,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/442,820000.0,NISSAN ALTIMA 2009,1N4AL21E79C169368,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/454,2728203.0,FORD FUSION 2013,3FA6P0G73DR298838,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/522,480000.0,FORD  MONDEO 2010,UF0AXX6BBAWA24713,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/04/2024/856,620700.0,MAZDA 6 2005,1YVHP80D565M51284,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1042,1000990.0,HYUNDAI H100 0,391624,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1043,655999.0,TOYOTA CAMRY 1999,U053718,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1044,1400000.0,TOYOTA HIGHLANDER 0,005477,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1045,500000.0,DODGE GRAND CARAVAN 0,583633,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1046,1244711.0,TOYOTA CAMRY 2009,390938,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1048,801999.0,MAZDA MAZDA 6 0,M36366,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1049,550000.0,HONDA ACCORD 2003,080974,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1050,2018504.0,VOLKSWAGEN PASSAT 2015,56605,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1051,1300000.0,PONTIAC VIBE 2005,424204,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1052,600400.0,FORD EXPLORER 0,B47810,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1053,1100000.0,HYUNDAI TUCSON 2005,U191345,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1054,600000.0,FORD EXPLORER 2006,A03952,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1055,800000.0,VOLKSWAGEN JETTA 2007,M161272,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1056,2000000.0,TOYOTA SIENNA 2002,U434195,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1057,600010.0,ACURA MDX 2003,H521190,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1058,1368000.0,MAZDA CX-9 2008,129280,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1065,1600000.0,TOYOTA CAMRY 2008,31752,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1081,620000.0,NISSAN XTERRA 0,508099,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1059,650002.0,NISSAN PRIMERA 0,521271,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1069,700000.0,HONDA  ODYSSEY VAN 2002,508246,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1070,1050000.0,LEXUS IS250 2009,84860,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1071,803000.0,MAZDA MAZDA 3 2003,114384,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1072,800000.0,MAZDA MPV 2001,109234,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1073,1900000.0,TOYOTA CAMRY 2009,264598,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1075,1000990.0,TOYOTA CAMRY 2000,101093,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1066,975000.0,PEUGEOT 307 2000,441022,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1067,1510123.0,SCION XD 2009,34744,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1068,679254.0,HONDA ACCORD 2007,071177,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1074,1150000.0,HYUNDAI SONATA 0,667199,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1076,700000.0,DODGE DAKOTA 2005,139422,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1077,1300000.0,TOYOTA SIENNA 0,237149,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1078,1718000.0,TOYOTA COROLLA 2008,913711,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1079,760000.0,VOLVO S60 2005,430815,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1080,1100000.0,HONDA ODYSSEY 2006,133419,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1082,800000.0,TOYOTA SIENNA 0,219940,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1083,520000.0,MITSUBISHI GALLANT 0,119335,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1086,470000.0,SUZUKI SUZUKI 2004,116371,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1084,430000.0,ROVER ROVER 75 0,150676,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1085,902000.0,HYUNDAI SONATA 0,020964,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1087,702500.0,CHEVROLET EQUINOX 2005,186907,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/01TC/OVT/02/2024/429,900000.0,LEXUS  ES350 2003,JTHBF30GX30098236,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1088,1550000.0,TOYOTA COROLLA 2010,361229,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1089,700000.0,MAZDA PREMACY 2000,122722,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1090,905700.0,NISSAN ROGUE 0,664341,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1091,980000.0,TOYOTA CAMRY 2002,050870,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1092,700000.0,CHEVROLET VAN 2004,117360,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1047,950000.0,VOLKSWAGEN JETTA 0,076890,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1093,2200000.0,BMW  3 SERIES 2007,WBAVC93557KZ70222,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1094,1266098.0,ACURA  MDX 2008,2HNYD28218H506771,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1095,1000000.0,FORD  GALAXY 1998,WF0GXXPSWGTG40874,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1096,748800.0,HONDA  CR-V 2006,JHLRD78516C010941,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1097,880760.0,DODGE  GRAND CARAVAN 2004,582557,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1098,802870.58,FORD  VICTORIA 2010,2FABP7AV8AX140782,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1099,1798650.0,TOYOTA  CAMRY 2002,4T1BF30K42U023282,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1100,1225479.15,LEXUS  ES330 2004,JTHBA30G840017329,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1101,676577.2,NISSAN  MAXIMA 3.5 SE 2004,1N4BA41E44C888334,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1102,2218999.0,PONTIAC  VIBE 2005,456303,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1103,620000.0,FORD  RANGER 1999,1FTYR10C6XUA71280,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1104,1250000.0,MERCEDES BENZ  C180 2001,WDB2020181A425204,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1105,1417501.05,HONDA  ODYSSEY 2003,B076681,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1106,543888.0,MERCEDES BENZ  ML500 2002,4JGAB75E22A363341,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1107,790111.0,HONDA  ELEMENT 2003,L004038,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1108,670000.0,NISSAN  PATHFINDER 2001,W561271,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1109,1000000.0,ACURA  TL 2004,JH4CL95824C009812,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1111,794851.05,JEEP LIBERTY  2004,1J8GW58N64C104810,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1112,861000.0,FORD  FOCUS 2008,1FAHP35N28W287411,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1113,650000.0,MERCEDES BENZ  ML 350 2004,4JGAB57E34A484044,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1114,600222.0,CHEVROLET  S-10 PICK UP  2001,1GCDT19W418122773,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1115,818000.0,VOLKSWAGEN  VAN 1994,WV2ZZZ70ZRH023252,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1116,1000000.0,TOYOTA  PREVIA 1991,005385,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1117,604000.0,MERCEDES BENZ  ML320 1999,192594,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1118,710000.0,JEEP  4X4 2003,587144,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1119,800000.0,TOYOTA  SIENNA 2000,198371,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1120,1187200.0,TOYOTA  CAMRY 2002,4T1BF1FK5FU621445,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1121,650000.0,ACURA  MDX 2004,523777,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1122,1092102.96,HONDA  PILOT 2007,5FNYF18537B022853,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1123,559883.1,FORD  PICKUP 2004,1FTPW14514FA29597,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1124,670000.0,FORD  MUSTANG 1972,2F01F108675,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1125,1000000.0,TOYOTA  HIGHLANDER 2004,JTEG021A640090505,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1126,1060000.0,TOYOTA  RAV 4 2004,JTEHD20V540009857,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1127,1125672.0,OPEL  ZAFIRA 2001,W0L0TGF7522078069,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1128,1146504.33,VOLKSWAGEN  PASSAT 2006,WVWAK73C16P137817,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1129,1325000.0,JEEP  COMMANDER 2007,1J8HG48K97C690263,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1130,630000.0,MAZDA  323 2002,JMZBA145201303140,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1131,1680000.0,TOYOTA  HIGHLANDER 2005,JTEDP21A250086348,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1132,650000.0,VolkSWAGEN  GOLF 1995,WVWZZ1HZSW254762,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1133,1000000.0,MERCEDES-BENZ  C240 2001,WDB2032611F379590,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1134,975450.0,TOYOTA  CAMRY 1995,S0298401,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1135,1284000.0,DODGE  GRAND CARAVAN 2012,2C4RDGBG1CR121497,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1136,680000.0,TOYOTA  RAV 4 1998,JT3HP10V8W7089952,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/07/2024/1110,800000.0,FORD  MONDEO 0,T29202,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/08/2024/1137,515480.0,NISSAN  ALTIMA 2008,C163344,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/08/2024/1139,470900.0,HONDA  ODYSSEY 2002,H007189,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/08/2024/1140,630000.0,TOYOTA  SIENNA 2000,294937,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/08/2024/1141,850000.0,HYUNDAI  VERACRUZ 2010,128825,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/08/2024/1142,540000.0,ISUZU  RODEO 2001,4339865,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/08/2024/1143,1297274.0,MERCEDES-BENZ  C300 2008,WDDGF81X38F135267,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/08/2024/1144,500000.0,SUBARU  FORESTER 2004,701858,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/08/2024/1145,904000.0,volkswagen JETTA 2007,M135037,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/08/2024/1146,680000.0,TOYOTA  TACOMA 2004,331164,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/08/2024/1147,521111.0,CHEVROLET  TOWN&COUNTRY 2008,774913,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/08/2024/1148,613335.0,ACURA  MDX 2002,H532435,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/08/2024/1149,580000.0,HONDA  ODYSSEY 2002,516323,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/08/2024/1150,750000.0,FORD  EXPLORER 2006,A08625,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/08/2024/1151,1199064.0,TOYOTA  MATRIX 2008,697338,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/08/2024/1152,1053481.0,TOYOTA  SIENNA 2006,022773,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/08/2024/1153,500000.0,VOLVO  S40 2003,2158033,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/08/2024/1154,530000.0,ACURA  TSX 2004,014438,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/08/2024/1155,750009.0,SCION  TC 2008,0255999,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/08/2024/1156,603000.0,FORD  EDGE 2007,BA51170,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/08/2024/1157,500999.0,TOYOTA  SIENNA 1999,103695,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/08/2024/1159,711111.0,TOYOTA  CAMRY 2003,057276,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/08/2024/1160,550000.0,OPEL  FRONTERA 1999,614245,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/PTML/OVT/08/2024/1161,1200000.0,TOYOTA  COROLLA 2005,536465,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/08/2024/1162,598500.0,LEXUS RX 300 2001,0091551,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/08/2024/1163,650888.0,NISSAN  ALTIMA 2010,437704,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/08/2024/1164,752000.0,TOYOTA  CAMRY 2001,829091,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/08/2024/1165,678999.0,MERCEDES BENZ  ML 350 2004,503680,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/08/2024/1166,755000.0,MERCEDES BENZ  C230  2003,F401100,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/08/2024/1167,570999.0,TOYOTA  SIENNA 2000,069289,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/08/2024/1168,770000.0,PEUGEOT  407 SW  2002,532157,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/08/2024/1169,1388000.0,TOYOTA  COROLLA 2005,518628,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/08/2024/1171,510000.0,CHEVROLET  VENTURE 2004,180433,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/08/2024/1172,567000.0,KIA  SPORTAGE 2007,374479,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/08/2024/1173,520009.0,LEXUS  ES 300 1998,014139,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/08/2024/1174,1631000.0,KIA  SORENTO 2007,690372,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/08/2024/1175,963101.0,SCION  XA 2004,054841,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/08/2024/1176,570000.0,TOYOTA  CAMRY 1999,609098,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/08/2024/1177,700000.0,CHEVROLET  HHR  2009,607875,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/08/2024/1178,648000.0,FORD  FREESTAR 2004,B29970,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/08/2024/1179,1200000.0,TOYOTA  HIGHLANDER 2012,5TDYK3EH5CS070513,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/08/2024/1180,1626898.0,HONDA  CROSSTOUR 2014,000016,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/08/2024/1181,533333.0,HYUNDAI  SANTA FE 2004,U572121,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
+Vehicle,NCS/TCIP/OVT/08/2024/1182,520000.0,TOYOTA CAMRY 1996,824426,Used_Vehicle,Automatic_Vehicle,Kilometers,Petrol_Vehicle
