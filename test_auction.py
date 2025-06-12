@@ -1,7 +1,6 @@
 from unittest.mock import (
     patch,
-    Mock,
-)  # importing the library that will fake the url response
+    Mock,)  # importing the library that will fake the url response
 from auction import (
     extract_data_from_html,
     scrape_multiple_pages,

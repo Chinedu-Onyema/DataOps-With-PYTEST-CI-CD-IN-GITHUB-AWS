@@ -1,6 +1,5 @@
 # Bringing everything together
 import pandas as pd
-import numpy as np
 
 
 # import the scraped table from a csv file

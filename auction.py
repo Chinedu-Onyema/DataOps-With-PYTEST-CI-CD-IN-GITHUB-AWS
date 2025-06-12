@@ -61,13 +61,13 @@ def extract_data_from_html(html):
     return data
 
 
-def scrape_multiple_pages(urls):
+def scrape_multiple_pages(links):
     all_data = []
 
-    # run a for loop in the urls
-    for url in urls:
+    # run a for loop in the links
+    for url in links:
         try:
-            response = requests.get(url)
+            response = requests.get(url, timeout=15)
             response.raise_for_status()  # Check for request errors
 
             page_data = extract_data_from_html(response.text)
@@ -75,14 +75,17 @@ def scrape_multiple_pages(urls):
 
             print(f"Data extracted from {url}")
 
+        except requests.exceptions.Timeout:
+            print("Request timed out!")
+
         except requests.RequestException as e:
             print(f"Failed to retrieve data from {url}: {e}")
 
     return all_data
 
 
-# List of URLs to scrape
-urls = [
+# List of links to scrape
+website_pages = [
     "https://auction.nigeriatradehub.gov.ng/previous_auction.php",
     "https://auction.nigeriatradehub.gov.ng/previous_auction.php?page=2",
     "https://auction.nigeriatradehub.gov.ng/previous_auction.php?page=3",
@@ -125,5 +128,5 @@ urls = [
 ]
 
 # Start the scraping process
-scraped_data = scrape_multiple_pages(urls)
+scraped_data = scrape_multiple_pages(website_pages)
 print(f"Data had been scraped {scraped_data}")
