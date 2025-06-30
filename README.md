@@ -1,4 +1,4 @@
-# WATCH THE FULL VIDEO TUTOURIAL USING THE LINK BELOW
+# WATCH THE FULL VIDEO TUTORIAL USING THE LINK BELOW
 https://drive.google.com/drive/folders/1WclvIjsp1UUjZ5wo_jIX5mLGN7Abke78?usp=drive_link
 
 
